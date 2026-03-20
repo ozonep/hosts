@@ -1,0 +1,57 @@
+name: Update Hosts
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  update-hosts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          ref: ${{ github.ref }}
+          fetch-depth: 0
+
+      - name: Sync with remote branch
+        env:
+          GITHUB_REF_NAME: ${{ github.ref_name }}
+        run: |
+          git fetch origin "${GITHUB_REF_NAME}"
+          git rebase "origin/${GITHUB_REF_NAME}"
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Generate filtered hosts file
+        run: python3 scripts/filter_hosts.py --output hosts
+
+      - name: Configure git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push updated hosts
+        env:
+          GITHUB_REF_NAME: ${{ github.ref_name }}
+        run: |
+          git add hosts
+          if git diff --cached --quiet -- hosts; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update filtered hosts"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
