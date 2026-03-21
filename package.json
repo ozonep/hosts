@@ -1,0 +1,12 @@
+{
+  "name": "hosts",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/filter_hosts.test.js",
+    "update-hosts": "node scripts/filter_hosts.js --output hosts"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

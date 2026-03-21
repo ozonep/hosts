@@ -30,13 +30,16 @@ jobs:
           git fetch origin "${GITHUB_REF_NAME}"
           git rebase "origin/${GITHUB_REF_NAME}"
 
-      - name: Set up Python
-        uses: actions/setup-python@v6
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
         with:
-          python-version: "3.13"
+          node-version: "24"
+
+      - name: Run tests
+        run: npm test
 
       - name: Generate filtered hosts file
-        run: python3 scripts/filter_hosts.py --output hosts
+        run: npm run update-hosts
 
       - name: Configure git identity
         run: |
