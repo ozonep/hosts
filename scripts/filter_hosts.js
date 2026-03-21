@@ -7,44 +7,20 @@ export const DEFAULT_OUTPUT_PATH = 'hosts';
 export const FETCH_TIMEOUT_MS = 30_000;
 
 export function normalizeHostname(hostname) {
-  if (hostname.endsWith('.')) {
-    hostname = hostname.slice(0, -1);
-  }
-
-  return hostname.toLowerCase();
+  return hostname.replace(/\.$/, '').toLowerCase();
 }
 
 export function filterHosts(sourceText) {
-  const outputLines = [];
-  const sourceLines = sourceText.split(/\r?\n/);
-
-  if (sourceLines.at(-1) === '') {
-    sourceLines.pop();
-  }
-
-  for (const rawLine of sourceLines) {
-    if (rawLine.startsWith('!')) {
-      outputLines.push(rawLine);
-      continue;
-    }
-
-    if (!rawLine.trim()) {
-      outputLines.push('');
-      continue;
-    }
+  const outputLines = sourceText.trimEnd().split(/\r?\n/).flatMap((rawLine) => {
+    if (rawLine.startsWith('!')) return [rawLine];
+    if (!rawLine.trim()) return [''];
 
     const parts = rawLine.trim().split(/\s+/);
-    if (parts.length < 2) {
-      continue;
-    }
+    if (parts.length < 2) return [];
 
-    const hostname = parts.at(-1);
-    const normalizedHostname = normalizeHostname(hostname);
-
-    if (normalizedHostname.endsWith('.ru') || normalizedHostname.endsWith('.net')) {
-      outputLines.push(rawLine.trimEnd());
-    }
-  }
+    const host = normalizeHostname(parts.at(-1));
+    return (host.endsWith('.ru') || host.endsWith('.net')) ? [rawLine.trimEnd()] : [];
+  });
 
   return `${outputLines.join('\n')}\n`;
 }
