@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 
-import { readFile, writeFile } from 'node:fs/promises';
-import { parseArgs as parseNodeArgs } from 'node:util';
+import { writeFile } from 'node:fs/promises';
 
 export const DEFAULT_SOURCE_URL = 'https://schakal.ru/hosts/alive_hosts_ru_com.txt';
 export const DEFAULT_OUTPUT_PATH = 'hosts';
@@ -50,11 +49,7 @@ export function filterHosts(sourceText) {
   return `${outputLines.join('\n')}\n`;
 }
 
-export async function readSourceText(inputPath) {
-  if (inputPath) {
-    return readFile(inputPath, 'utf8');
-  }
-
+export async function readSourceText() {
   const response = await fetch(DEFAULT_SOURCE_URL, {
     signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
   });
@@ -66,56 +61,10 @@ export async function readSourceText(inputPath) {
   return response.text();
 }
 
-export async function writeOutput(outputPath, content) {
-  await writeFile(outputPath, content, 'utf8');
-}
-
-export function parseArgs(argv = process.argv.slice(2)) {
-  const { values } = parseNodeArgs({
-    allowPositionals: false,
-    args: argv,
-    options: {
-      help: {
-        short: 'h',
-        type: 'boolean',
-      },
-      input: {
-        type: 'string',
-      },
-      output: {
-        type: 'string',
-      },
-    },
-    strict: true,
-  });
-
-  return {
-    help: values.help ?? false,
-    inputPath: values.input,
-    outputPath: values.output ?? DEFAULT_OUTPUT_PATH,
-  };
-}
-
-export function getUsageText() {
-  return [
-    'Filter hosts entries to .ru and .net domains.',
-    '',
-    'Usage:',
-    '  node scripts/filter_hosts.js [--input <path>] [--output <path>]',
-  ].join('\n');
-}
-
-export async function main(argv = process.argv.slice(2)) {
-  const args = parseArgs(argv);
-
-  if (args.help) {
-    console.log(getUsageText());
-    return;
-  }
-
-  const sourceText = await readSourceText(args.inputPath);
+export async function main() {
+  const sourceText = await readSourceText();
   const filteredText = filterHosts(sourceText);
-  await writeOutput(args.outputPath, filteredText);
+  await writeFile(DEFAULT_OUTPUT_PATH, filteredText, 'utf8');
 }
 
 if (import.meta.main) {
