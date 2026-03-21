@@ -1,0 +1,6 @@
+!Title: Sample
+
+127.0.0.1 localhost
+0.0.0.0 keep.example.ru
+0.0.0.0 keep.example.net
+0.0.0.0 drop.example.com
