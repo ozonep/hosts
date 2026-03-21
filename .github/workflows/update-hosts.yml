@@ -2,8 +2,6 @@ name: Update Hosts
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 1 * * *"
 
 permissions:
   contents: write
@@ -38,17 +36,7 @@ jobs:
       - name: Run tests
         run: npm test
 
-      - name: Diagnose source fetch
-        run: |
-          date -u
-          getent ahosts schakal.ru || true
-          curl -vI --connect-timeout 10 --max-time 20 https://schakal.ru/hosts/alive_hosts_ru_com.txt || true
-          curl -4 -vI --connect-timeout 10 --max-time 20 https://schakal.ru/hosts/alive_hosts_ru_com.txt || true
-          curl -6 -vI --connect-timeout 10 --max-time 20 https://schakal.ru/hosts/alive_hosts_ru_com.txt || true
-
       - name: Generate filtered hosts file
-        env:
-          NODE_OPTIONS: --dns-result-order=ipv4first
         run: npm run update-hosts
 
       - name: Configure git identity
