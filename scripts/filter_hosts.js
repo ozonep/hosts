@@ -4,7 +4,6 @@ import { writeFile } from 'node:fs/promises';
 
 export const DEFAULT_SOURCE_URL = 'https://schakal.ru/hosts/alive_hosts_ru_com.txt';
 export const DEFAULT_OUTPUT_PATH = 'hosts';
-export const FETCH_TIMEOUT_MS = 30_000;
 
 export function normalizeHostname(hostname) {
   return hostname.replace(/\.$/, '').toLowerCase();
@@ -27,7 +26,7 @@ export function filterHosts(sourceText) {
 
 export async function readSourceText() {
   const response = await fetch(DEFAULT_SOURCE_URL, {
-    signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
+    signal: AbortSignal.timeout(30_000),
   });
 
   if (!response.ok) {
