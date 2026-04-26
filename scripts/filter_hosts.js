@@ -2,9 +2,6 @@
 
 import { writeFile } from 'node:fs/promises';
 
-export const DEFAULT_SOURCE_URL = 'https://schakal.ru/hosts/alive_hosts_ru_com.txt';
-export const DEFAULT_OUTPUT_PATH = 'hosts';
-
 export function normalizeHostname(hostname) {
   return hostname.replace(/\.$/, '').toLowerCase();
 }
@@ -25,7 +22,7 @@ export function filterHosts(sourceText) {
 }
 
 export async function readSourceText() {
-  const response = await fetch(DEFAULT_SOURCE_URL, {
+  const response = await fetch('https://schakal.ru/hosts/alive_hosts_ru_com.txt', {
     signal: AbortSignal.timeout(30_000),
   });
 
@@ -39,7 +36,7 @@ export async function readSourceText() {
 export async function main() {
   const sourceText = await readSourceText();
   const filteredText = filterHosts(sourceText);
-  await writeFile(DEFAULT_OUTPUT_PATH, filteredText, 'utf8');
+  await writeFile('hosts', filteredText, 'utf8');
 }
 
 if (import.meta.main) {
