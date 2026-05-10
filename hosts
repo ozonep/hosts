@@ -1,7 +1,7 @@
 !Title: 4PDA Community hosts blacklist
-!Last modified: 08 May 2026 23:00 UTC
+!Last modified: 09 May 2026 23:00 UTC
 !Expires: 1 day
-!Records: 257521
+!Records: 257549
 
 0.0.0.0 0.as.sourceforge.net
 0.0.0.0 0.loader.gutefrage.net
@@ -689,6 +689,7 @@
 0.0.0.0 ads.adv-adplatform.ru
 0.0.0.0 ads.alfasense.net
 0.0.0.0 ads.avads.net
+0.0.0.0 ads.bizwd.net
 0.0.0.0 ads.bl-consulting.net
 0.0.0.0 ads.convertagain.net
 0.0.0.0 ads.counciladvertising.net
@@ -958,6 +959,7 @@
 0.0.0.0 akamai-cf-ssr.cdn-z.net
 0.0.0.0 akamai.demdex.net
 0.0.0.0 akcdn.bangcdn.net
+0.0.0.0 aki-gb-sdklog.kurogames.net
 0.0.0.0 akindmob.offerstrack.net
 0.0.0.0 akl-navvy.media.net
 0.0.0.0 akmoss.bangcdn.net
@@ -9674,6 +9676,7 @@
 0.0.0.0 prod-jorudan.alpth.agoop.net
 0.0.0.0 prod-msk-ad-analytics-tracker.novofon.ru
 0.0.0.0 prod-rtb.ad4mat.net
+0.0.0.0 prod-ue1-client-telemetry-maple.hingeprod.net
 0.0.0.0 prod-ue1-client-telemetry-oak.hingeprod.net
 0.0.0.0 prod.rudderstack.withings.net
 0.0.0.0 prodigys01.webtrekk.net
@@ -11047,6 +11050,7 @@
 0.0.0.0 r3---sn-5hne6nzs.c.2mdn.net
 0.0.0.0 r3---sn-5hnednss.c.2mdn.net
 0.0.0.0 r3---sn-5hnednsz.c.2mdn.net
+0.0.0.0 r3---sn-5hnekn7l.c.2mdn.net
 0.0.0.0 r3---sn-5hneknee.c.2mdn.net
 0.0.0.0 r3---sn-5hneknes.c.2mdn.net
 0.0.0.0 r3---sn-5uaezn67.c.2mdn.net
@@ -11579,6 +11583,7 @@
 0.0.0.0 r4---sn-2ot0a5-5w.c.2mdn.net
 0.0.0.0 r4---sn-2ovgq5-cw.c.2mdn.net
 0.0.0.0 r4---sn-4g5e6nss.c.2mdn.net
+0.0.0.0 r4---sn-4g5e6nsz.c.2mdn.net
 0.0.0.0 r4---sn-4g5edn6k.c.2mdn.net
 0.0.0.0 r4---sn-4g5edn6r.c.2mdn.net
 0.0.0.0 r4---sn-4g5edn6y.c.2mdn.net
@@ -12168,6 +12173,7 @@
 0.0.0.0 r5---sn-4g5ednsz.c.2mdn.net
 0.0.0.0 r5---sn-4g5lzne6.c.2mdn.net
 0.0.0.0 r5---sn-4g5lzned.c.2mdn.net
+0.0.0.0 r5---sn-4g5lzner.c.2mdn.net
 0.0.0.0 r5---sn-4g5lznes.c.2mdn.net
 0.0.0.0 r5---sn-4g5lzney.c.2mdn.net
 0.0.0.0 r5---sn-4g5lznl6.c.2mdn.net
