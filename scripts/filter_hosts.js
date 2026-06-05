@@ -4,24 +4,31 @@ import { writeFile } from 'node:fs/promises';
 
 export const DEFAULT_SOURCE_URL = 'https://schakal.ru/hosts/alive_hosts_ru_com.txt';
 export const DEFAULT_OUTPUT_PATH = 'hosts';
-
-export function normalizeHostname(hostname) {
-  return hostname.replace(/\.$/, '').toLowerCase();
-}
+export const ALLOWED_HOST_PATTERN = /\.ru\.?$/i;
 
 export function filterHosts(sourceText) {
+  let recordCount = 0;
+
   const outputLines = sourceText.trimEnd().split(/\r?\n/).flatMap((rawLine) => {
     if (rawLine.startsWith('!')) return [rawLine];
-    if (!rawLine.trim()) return [''];
 
-    const parts = rawLine.trim().split(/\s+/);
+    const trimmed = rawLine.trim();
+    if (!trimmed) return [''];
+
+    const parts = trimmed.split(/\s+/);
     if (parts.length < 2) return [];
 
-    const host = normalizeHostname(parts.at(-1));
-    return (host.endsWith('.ru') || host.endsWith('.net')) ? [rawLine.trimEnd()] : [];
+    if (!ALLOWED_HOST_PATTERN.test(parts[1])) return [];
+
+    recordCount += 1;
+    return [rawLine.trimEnd()];
   });
 
-  return `${outputLines.join('\n')}\n`;
+  const outputText = outputLines
+    .map((line) => line.startsWith('!Records:') ? `!Records: ${recordCount}` : line)
+    .join('\n');
+
+  return `${outputText}\n`;
 }
 
 export async function readSourceText() {

@@ -3,9 +3,10 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "test": "node --test",
     "update-hosts": "node scripts/filter_hosts.js"
   },
   "engines": {
-    "node": ">=22"
+    "node": ">=24.2.0"
   }
 }
