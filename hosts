@@ -1,7 +1,7 @@
 !Title: 4PDA Community hosts blacklist
-!Last modified: 13 Jun 2026 23:00 UTC
+!Last modified: 15 Jun 2026 23:00 UTC
 !Expires: 1 day
-!Records: 1306
+!Records: 1302
 
 0.0.0.0 02ip.ru
 0.0.0.0 04xmhp.ru
@@ -79,7 +79,6 @@
 0.0.0.0 952211.log.rutube.ru
 0.0.0.0 952212.log.rutube.ru
 0.0.0.0 9levl1.ru
-0.0.0.0 a.mt.ru
 0.0.0.0 a.mts.ru
 0.0.0.0 a.pikabu.ru
 0.0.0.0 a.ria.ru
@@ -102,6 +101,7 @@
 0.0.0.0 ad.adriver.ru
 0.0.0.0 ad.allboxing.ru
 0.0.0.0 ad.bannerhost.ru
+0.0.0.0 ad.betcity.ru
 0.0.0.0 ad.hutor.ru
 0.0.0.0 ad.kissanime.com.ru
 0.0.0.0 ad.mail.ru
@@ -282,7 +282,6 @@
 0.0.0.0 blog.sape.ru
 0.0.0.0 blogs.softodrom.ru
 0.0.0.0 bn.winlinebet.ru
-0.0.0.0 bonus-betting.ru
 0.0.0.0 bonuscake.ru
 0.0.0.0 borzjournal.ru
 0.0.0.0 botfaqtor.ru
@@ -332,6 +331,7 @@
 0.0.0.0 cgig.ru
 0.0.0.0 checker.cityads.ru
 0.0.0.0 checks.botfaqtor.ru
+0.0.0.0 chiptuner.ru
 0.0.0.0 cityads.ru
 0.0.0.0 ckct.ru
 0.0.0.0 clck.dzen.ru
@@ -493,7 +493,6 @@
 0.0.0.0 fcgi5.gnezdo.ru
 0.0.0.0 fcgi7.gnezdo.ru
 0.0.0.0 feeds.kommersant.ru
-0.0.0.0 feme.ru
 0.0.0.0 ff.astv.ru
 0.0.0.0 filedrive.nocoshop.ru
 0.0.0.0 filekeeper.nocoshop.ru
@@ -523,7 +522,6 @@
 0.0.0.0 girlporn.ru
 0.0.0.0 gjv7fg.ru
 0.0.0.0 gk7qlc.ru
-0.0.0.0 globalscience.ru
 0.0.0.0 glopages.ru
 0.0.0.0 gnezdo.ru
 0.0.0.0 gold-meat.ru
@@ -534,7 +532,6 @@
 0.0.0.0 grafana.bot.dekma-gay.ru
 0.0.0.0 greatgrace.ru
 0.0.0.0 grs-pub.platform.dbankcloud.ru
-0.0.0.0 gru0z6.ru
 0.0.0.0 gso.amocrm.ru
 0.0.0.0 gw.botfaqtor.ru
 0.0.0.0 gw2.botfaqtor.ru
@@ -590,11 +587,11 @@
 0.0.0.0 img0.liveinternet.ru
 0.0.0.0 img01.ad-tech.ru
 0.0.0.0 img1.advertology.ru
+0.0.0.0 imobilco.ru
 0.0.0.0 indetiske.ya.ru
 0.0.0.0 inetlog.ru
 0.0.0.0 info-dvd.ru
 0.0.0.0 info.kinoclub77.ru
-0.0.0.0 infoclicker.ru
 0.0.0.0 informer.yandex.ru
 0.0.0.0 init.videonow.ru
 0.0.0.0 injectroblox.ru
@@ -662,6 +659,7 @@
 0.0.0.0 logservice-drru.dt.dbankcloud.ru
 0.0.0.0 loki.maximonline.ru
 0.0.0.0 loyalty-sentry.dixy.ru
+0.0.0.0 lp.mobiletracking.ru
 0.0.0.0 m-api.a.mts.ru
 0.0.0.0 m-cm.a.mts.ru
 0.0.0.0 m.7ooo.ru
@@ -684,7 +682,6 @@
 0.0.0.0 matomo.finam.ru
 0.0.0.0 matomo.tutu.ru
 0.0.0.0 matomo.x5.ru
-0.0.0.0 mayak01.ru
 0.0.0.0 maylohack.ru
 0.0.0.0 mb9pzp.ru
 0.0.0.0 mc.kinopoisk.ru
@@ -698,6 +695,7 @@
 0.0.0.0 metrica.yandex.ru
 0.0.0.0 metrics-drru.dt.dbankcloud.ru
 0.0.0.0 metrics.aviasales.ru
+0.0.0.0 metrics.obs.mts.ru
 0.0.0.0 metrics.prom.third-party-app.sberdevices.ru
 0.0.0.0 metrics.tricolor.ru
 0.0.0.0 metrics5.dt.dbankcloud.ru
@@ -707,7 +705,6 @@
 0.0.0.0 mh6.adriver.ru
 0.0.0.0 mh8.adriver.ru
 0.0.0.0 minimo.callibri.ru
-0.0.0.0 mirror.heroeswm.ru
 0.0.0.0 mirroruploads.nocoshop.ru
 0.0.0.0 mlb1.adriver.ru
 0.0.0.0 mlb2.adriver.ru
@@ -735,6 +732,7 @@
 0.0.0.0 ms.propub.ru
 0.0.0.0 mstat.mos.ru
 0.0.0.0 myjulia.ru
+0.0.0.0 mymts.metrics.obs.mts.ru
 0.0.0.0 myqualification.rambler.ru
 0.0.0.0 mytop.live.vkvideo.ru
 0.0.0.0 n8ndjalil.ru
@@ -744,7 +742,6 @@
 0.0.0.0 nel.wb.ru
 0.0.0.0 neobasnet.timeout.ru
 0.0.0.0 neosap.ru
-0.0.0.0 netlog.ru
 0.0.0.0 news.2xclick.ru
 0.0.0.0 news.gnezdo.ru
 0.0.0.0 news.gnezdo2.ru
@@ -776,6 +773,7 @@
 0.0.0.0 ostrich.vedomosti.ru
 0.0.0.0 otclick-adv.ru
 0.0.0.0 otvet.radar.imgsmail.ru
+0.0.0.0 p.winline.ru
 0.0.0.0 pageservice-drru.dt.dbankcloud.ru
 0.0.0.0 paradocs.ru
 0.0.0.0 parking.reg.ru
@@ -860,7 +858,6 @@
 0.0.0.0 regionads.ru
 0.0.0.0 reklama.mail.ru
 0.0.0.0 release-me.ru
-0.0.0.0 remontmechty.ru
 0.0.0.0 repo.tlauncher.ru
 0.0.0.0 report.ap.yandex-net.ru
 0.0.0.0 req.pm2.punchmedia.ru
@@ -889,6 +886,7 @@
 0.0.0.0 rum3.cdnvideo.ru
 0.0.0.0 rum4.cdnvideo.ru
 0.0.0.0 rum5.cdnvideo.ru
+0.0.0.0 rum6.cdnvideo.ru
 0.0.0.0 rumstat-01.cdnvideo.ru
 0.0.0.0 rumstat.cdnvideo.ru
 0.0.0.0 rustrackers.ru
@@ -910,7 +908,6 @@
 0.0.0.0 selec1.adriver.ru
 0.0.0.0 sendbox.nocoshop.ru
 0.0.0.0 sentry-api.sberdevices.ru
-0.0.0.0 sentry-front.pik-infra.ru
 0.0.0.0 sentry-ingest.kuper.ru
 0.0.0.0 sentry-mobile-ingest.kuper.ru
 0.0.0.0 sentry-mobile.alfabank.ru
@@ -944,6 +941,7 @@
 0.0.0.0 sentry.uteka.ru
 0.0.0.0 sentry.wb.ru
 0.0.0.0 sentry.webinar.ru
+0.0.0.0 sentry.winline.ru
 0.0.0.0 sentry.x5.ru
 0.0.0.0 seo-service.domclick.ru
 0.0.0.0 serval.getads.ru
@@ -1007,6 +1005,7 @@
 0.0.0.0 st.film.ru
 0.0.0.0 st.top100.ru
 0.0.0.0 st.yagla.ru
+0.0.0.0 stafftest.ru
 0.0.0.0 startup-mobile.ap.yandex-net.ru
 0.0.0.0 stat-analytics.mediavitrina.ru
 0.0.0.0 stat.5-tv.ru
@@ -1060,7 +1059,6 @@
 0.0.0.0 svk-native.ru
 0.0.0.0 swft.vedomosti.ru
 0.0.0.0 sync.ad-tech.ru
-0.0.0.0 sync.adplay.ru
 0.0.0.0 sync.opendsp.ru
 0.0.0.0 sync.rambler.ru
 0.0.0.0 sync.videonow.ru
@@ -1135,7 +1133,6 @@
 0.0.0.0 unisound.cdnvideo.ru
 0.0.0.0 unlockers.ru
 0.0.0.0 upandshare.nocoshop.ru
-0.0.0.0 upsrv.ru
 0.0.0.0 uptime-info.yandex.ru
 0.0.0.0 uptolike.ru
 0.0.0.0 userator.ru
@@ -1215,8 +1212,7 @@
 0.0.0.0 wmcasher.ru
 0.0.0.0 wolist.ru
 0.0.0.0 wordstat.yandex.ru
-0.0.0.0 workius.ru
-0.0.0.0 workspay.ru
+0.0.0.0 work5.ru
 0.0.0.0 wowlink.ru
 0.0.0.0 wrc-info.ru
 0.0.0.0 ws.callibri.ru
@@ -1264,6 +1260,7 @@
 0.0.0.0 www.iplogger.ru
 0.0.0.0 www.jps.ru
 0.0.0.0 www.justclick.ru
+0.0.0.0 www.kontrolnaya-rabota.ru
 0.0.0.0 www.mastertarget.ru
 0.0.0.0 www.mc.yandex.ru
 0.0.0.0 www.mir-stalkera.ru
@@ -1277,7 +1274,6 @@
 0.0.0.0 www.propan.ru
 0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.tinka.ru
-0.0.0.0 www.tnative.ru
 0.0.0.0 www.tns-counter.ru
 0.0.0.0 www.toptracker.ru
 0.0.0.0 www.udobrit.ru
