@@ -1,7 +1,7 @@
 !Title: 4PDA Community hosts blacklist
-!Last modified: 15 Jun 2026 23:00 UTC
+!Last modified: 16 Jun 2026 23:00 UTC
 !Expires: 1 day
-!Records: 1302
+!Records: 1298
 
 0.0.0.0 02ip.ru
 0.0.0.0 04xmhp.ru
@@ -101,7 +101,6 @@
 0.0.0.0 ad.adriver.ru
 0.0.0.0 ad.allboxing.ru
 0.0.0.0 ad.bannerhost.ru
-0.0.0.0 ad.betcity.ru
 0.0.0.0 ad.hutor.ru
 0.0.0.0 ad.kissanime.com.ru
 0.0.0.0 ad.mail.ru
@@ -886,7 +885,6 @@
 0.0.0.0 rum3.cdnvideo.ru
 0.0.0.0 rum4.cdnvideo.ru
 0.0.0.0 rum5.cdnvideo.ru
-0.0.0.0 rum6.cdnvideo.ru
 0.0.0.0 rumstat-01.cdnvideo.ru
 0.0.0.0 rumstat.cdnvideo.ru
 0.0.0.0 rustrackers.ru
@@ -1139,7 +1137,6 @@
 0.0.0.0 usercenter-drru.dt.dbankcloud.ru
 0.0.0.0 utarget.ru
 0.0.0.0 utorria.ru
-0.0.0.0 uucyc.ru
 0.0.0.0 uzbek-film.ru
 0.0.0.0 uznatpochemu.ru
 0.0.0.0 v.adfox.ru
@@ -1196,7 +1193,6 @@
 0.0.0.0 whiteboxdigital.ru
 0.0.0.0 whiteline.mail.ru
 0.0.0.0 widget.adplay.ru
-0.0.0.0 widget.cleversite.ru
 0.0.0.0 widget.info-app5shs.ru
 0.0.0.0 widget.info-static.ru
 0.0.0.0 widget.kassa.rambler.ru
