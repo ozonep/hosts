@@ -1,7 +1,7 @@
 !Title: 4PDA Community hosts blacklist
-!Last modified: 19 Jun 2026 23:00 UTC
+!Last modified: 22 Jun 2026 23:00 UTC
 !Expires: 1 day
-!Records: 1303
+!Records: 1294
 
 0.0.0.0 02ip.ru
 0.0.0.0 04xmhp.ru
@@ -94,13 +94,13 @@
 0.0.0.0 a4.smi2.ru
 0.0.0.0 a6.smi2.ru
 0.0.0.0 a7.smi2.ru
-0.0.0.0 aan8bq.ru
 0.0.0.0 abs.firstvds.ru
 0.0.0.0 acollector.wb.ru
 0.0.0.0 actionpay.ru
 0.0.0.0 ad.adriver.ru
 0.0.0.0 ad.allboxing.ru
 0.0.0.0 ad.bannerhost.ru
+0.0.0.0 ad.betcity.ru
 0.0.0.0 ad.hutor.ru
 0.0.0.0 ad.kissanime.com.ru
 0.0.0.0 ad.mail.ru
@@ -117,6 +117,7 @@
 0.0.0.0 adhands.ru
 0.0.0.0 adm.dimonvideo.ru
 0.0.0.0 admediator.ru
+0.0.0.0 admetr.ru
 0.0.0.0 admigo.ru
 0.0.0.0 admile.ru
 0.0.0.0 admin.verbox.ru
@@ -287,12 +288,14 @@
 0.0.0.0 bs-dante.ru
 0.0.0.0 bs-meta.yandex.ru
 0.0.0.0 bs-metadsp.yandex.ru
+0.0.0.0 bs.adservings.ru
 0.0.0.0 bs.orsk.ru
 0.0.0.0 bs.serving-sys.ru
 0.0.0.0 bs.yandex.ru
 0.0.0.0 budvawshes.ru
 0.0.0.0 bugpuk.ru
 0.0.0.0 bvl5bziz9d.ru
+0.0.0.0 c.admetr.ru
 0.0.0.0 c.botfaqtor.ru
 0.0.0.0 c.sibnet.ru
 0.0.0.0 c.snsv.ru
@@ -358,7 +361,6 @@
 0.0.0.0 code.moviead55.ru
 0.0.0.0 code.r5hsid.ru
 0.0.0.0 common.radar.imgsmail.ru
-0.0.0.0 config.widget.info-app5shs.ru
 0.0.0.0 connect-drru.hispace.dbankcloud.ru
 0.0.0.0 connect.ok.ru
 0.0.0.0 consultant-online.ru
@@ -399,7 +401,6 @@
 0.0.0.0 cs.avito.ru
 0.0.0.0 cs.opendsp.ru
 0.0.0.0 cs15.livetex.ru
-0.0.0.0 cs44.pikabu.ru
 0.0.0.0 cspreport.mail.ru
 0.0.0.0 css.yuga.ru
 0.0.0.0 cstatic-ru-cv.weborama-tech.ru
@@ -416,14 +417,12 @@
 0.0.0.0 dadata.ru
 0.0.0.0 dadu.ru
 0.0.0.0 daily.heroeswm.ru
-0.0.0.0 dapf.ru
 0.0.0.0 darknagar.ru
 0.0.0.0 data.punchmedia.ru
 0.0.0.0 data.skwstat.ru
 0.0.0.0 data.videonow.ru
 0.0.0.0 datatracking.ru
 0.0.0.0 dcdn.heroeswm.ru
-0.0.0.0 dcnn.ru
 0.0.0.0 dct.mango-office.ru
 0.0.0.0 delta.mediafort.ru
 0.0.0.0 demo.punchmedia.ru
@@ -465,6 +464,7 @@
 0.0.0.0 eimage.sendsay.ru
 0.0.0.0 elitpharma.ru
 0.0.0.0 email-images.mindbox.ru
+0.0.0.0 erkugo.ru
 0.0.0.0 err.agava.ru
 0.0.0.0 err.apteka.ru
 0.0.0.0 err.lenta.ru
@@ -473,7 +473,6 @@
 0.0.0.0 evangroup.ru
 0.0.0.0 event-analytics-backend.skyeng.ru
 0.0.0.0 event.playground.ru
-0.0.0.0 event.tradedealer.ru
 0.0.0.0 events-drru.op.dbankcloud.ru
 0.0.0.0 events.adx.com.ru
 0.0.0.0 events.cardsmobile.ru
@@ -484,7 +483,6 @@
 0.0.0.0 eye.agency2.ru
 0.0.0.0 eyenewton.ru
 0.0.0.0 ezstat.ru
-0.0.0.0 f.gdeslon.ru
 0.0.0.0 f38172564ba14286bb82bf16185a1a28.ops.beeline.ru
 0.0.0.0 fabrikamebelispb.ru
 0.0.0.0 fast2load.ru
@@ -506,7 +504,6 @@
 0.0.0.0 flotprom.ru
 0.0.0.0 flyroll.ru
 0.0.0.0 fmon.citilink.ru
-0.0.0.0 forextimes.ru
 0.0.0.0 free-gluten.ru
 0.0.0.0 frontlog.tutu.ru
 0.0.0.0 frontmetrics.tutu.ru
@@ -526,7 +523,6 @@
 0.0.0.0 girlporn.ru
 0.0.0.0 gjv7fg.ru
 0.0.0.0 gk7qlc.ru
-0.0.0.0 global.slon-e.ru
 0.0.0.0 glopages.ru
 0.0.0.0 gnezdo.ru
 0.0.0.0 gold-meat.ru
@@ -562,7 +558,6 @@
 0.0.0.0 hitcrypt.icyh3e.ru
 0.0.0.0 hitcrypt.kfe0mn.ru
 0.0.0.0 hitcrypt.mb9pzp.ru
-0.0.0.0 hitcrypt.nbh0sl.ru
 0.0.0.0 hitcrypt.nkwnb7.ru
 0.0.0.0 hitcrypt.rbcv7s.ru
 0.0.0.0 hitcrypt.udqrh6.ru
@@ -575,6 +570,7 @@
 0.0.0.0 hothat.ru
 0.0.0.0 ht-systems.ru
 0.0.0.0 http-check-headers.yandex.ru
+0.0.0.0 hungrywifi.ru
 0.0.0.0 hwmonitor-ru.ru
 0.0.0.0 hybrid.ru
 0.0.0.0 iceprogs.ru
@@ -602,6 +598,7 @@
 0.0.0.0 innovation-lab.ru
 0.0.0.0 inplayer.ru
 0.0.0.0 instreamvideo.ru
+0.0.0.0 intellicaddev.ru
 0.0.0.0 intimshop.ru
 0.0.0.0 ip4.tracker-api.vk-analytics.ru
 0.0.0.0 ipgold.ru
@@ -623,6 +620,7 @@
 0.0.0.0 jux9ms4vc7.ru
 0.0.0.0 kamint.ru
 0.0.0.0 kavanga.ru
+0.0.0.0 kayrachemicals.ru
 0.0.0.0 kevents.auth.gid.ru
 0.0.0.0 kfe0mn.ru
 0.0.0.0 kiks.yandex.ru
@@ -667,7 +665,6 @@
 0.0.0.0 lp.mobiletracking.ru
 0.0.0.0 m-api.a.mts.ru
 0.0.0.0 m-cm.a.mts.ru
-0.0.0.0 m.7ooo.ru
 0.0.0.0 m.leboard.ru
 0.0.0.0 m.winline.ru
 0.0.0.0 m1-shop.ru
@@ -743,7 +740,6 @@
 0.0.0.0 n8ndjalil.ru
 0.0.0.0 nashindex.ru
 0.0.0.0 nashvek.ru
-0.0.0.0 nbh0sl.ru
 0.0.0.0 nel.wb.ru
 0.0.0.0 neobasnet.timeout.ru
 0.0.0.0 neosap.ru
@@ -751,6 +747,7 @@
 0.0.0.0 news.gnezdo.ru
 0.0.0.0 news.gnezdo2.ru
 0.0.0.0 news.mediametrics.ru
+0.0.0.0 news.rin.ru
 0.0.0.0 news.smi2.ru
 0.0.0.0 nkwnb7.ru
 0.0.0.0 novosti.gnezdo.ru
@@ -764,7 +761,6 @@
 0.0.0.0 ogtz5yn2u1.ru
 0.0.0.0 ohmybid-sync.rutarget.ru
 0.0.0.0 okr.sbdv.ru
-0.0.0.0 ol8ts0.ru
 0.0.0.0 omniqa.ru
 0.0.0.0 onenews24.ru
 0.0.0.0 onetarget.ru
@@ -781,7 +777,6 @@
 0.0.0.0 parking.reg.ru
 0.0.0.0 partner.market.yandex.ru
 0.0.0.0 partner.yandex.ru
-0.0.0.0 partners.sbermarketing.ru
 0.0.0.0 pb.adriver.ru
 0.0.0.0 pbnet.ru
 0.0.0.0 pcyk.ru
@@ -789,7 +784,6 @@
 0.0.0.0 personalization-speedtest.g.mindbox.ru
 0.0.0.0 personalization-web-stable.mindbox.ru
 0.0.0.0 personalization-web.g.mindbox.ru
-0.0.0.0 personalization-web.s.mindbox.ru
 0.0.0.0 philjournal.ru
 0.0.0.0 piper.amocrm.ru
 0.0.0.0 pixel.ad-tech.ru
@@ -843,7 +837,6 @@
 0.0.0.0 r3.mail.ru
 0.0.0.0 r5hsid.ru
 0.0.0.0 radar.imgsmail.ru
-0.0.0.0 rate-metrics.prodoctorov.ru
 0.0.0.0 rate.ru
 0.0.0.0 rbcv7s.ru
 0.0.0.0 rcm.rambler.ru
@@ -888,6 +881,7 @@
 0.0.0.0 rum3.cdnvideo.ru
 0.0.0.0 rum4.cdnvideo.ru
 0.0.0.0 rum5.cdnvideo.ru
+0.0.0.0 rum6.cdnvideo.ru
 0.0.0.0 rumstat-01.cdnvideo.ru
 0.0.0.0 rumstat.cdnvideo.ru
 0.0.0.0 rustrackers.ru
@@ -959,7 +953,6 @@
 0.0.0.0 sexgramm.ru
 0.0.0.0 sgood.ru
 0.0.0.0 sharemefiles.ru
-0.0.0.0 shoppilot.ru
 0.0.0.0 show.openssp.ru
 0.0.0.0 sib2.adriver.ru
 0.0.0.0 sibtel.adriver.ru
@@ -1018,7 +1011,6 @@
 0.0.0.0 stat.clickfrog.ru
 0.0.0.0 stat.gc.vkplay.ru
 0.0.0.0 stat.playfamily.ru
-0.0.0.0 stat.pravmir.ru
 0.0.0.0 stat.radar.imgsmail.ru
 0.0.0.0 stat.sputnik.ru
 0.0.0.0 stat.tlauncher.ru
@@ -1168,7 +1160,6 @@
 0.0.0.0 vnikitskom.ru
 0.0.0.0 vp.rambler.ru
 0.0.0.0 vsem.ru
-0.0.0.0 vsemp.ru
 0.0.0.0 vseobuch.ru
 0.0.0.0 vsexshop.ru
 0.0.0.0 vst.sibnet.ru
@@ -1188,6 +1179,7 @@
 0.0.0.0 webim2.ru
 0.0.0.0 webkurchatov.ru
 0.0.0.0 weborama-tech.ru
+0.0.0.0 webpush-images.mindbox.ru
 0.0.0.0 webpush-imgproxy.g.mindbox.ru
 0.0.0.0 websurf.ru
 0.0.0.0 wemadepro.ru
@@ -1248,7 +1240,7 @@
 0.0.0.0 www.directadvert.ru
 0.0.0.0 www.drivenetwork.ru
 0.0.0.0 www.elitpharma.ru
-0.0.0.0 www.forextimes.ru
+0.0.0.0 www.erkugo.ru
 0.0.0.0 www.free-gluten.ru
 0.0.0.0 www.gdeslon.ru
 0.0.0.0 www.girlporn.ru
@@ -1260,6 +1252,7 @@
 0.0.0.0 www.iplogger.ru
 0.0.0.0 www.jps.ru
 0.0.0.0 www.justclick.ru
+0.0.0.0 www.kayrachemicals.ru
 0.0.0.0 www.kontrolnaya-rabota.ru
 0.0.0.0 www.mastertarget.ru
 0.0.0.0 www.mc.yandex.ru
@@ -1276,11 +1269,9 @@
 0.0.0.0 www.tinka.ru
 0.0.0.0 www.tns-counter.ru
 0.0.0.0 www.toptracker.ru
-0.0.0.0 www.udobrit.ru
 0.0.0.0 www.unlockers.ru
 0.0.0.0 www.uzbek-film.ru
 0.0.0.0 www.videonow.ru
-0.0.0.0 www.vigvam.ru
 0.0.0.0 www.weatherarchive.ru
 0.0.0.0 www.wemadepro.ru
 0.0.0.0 www.wm-goldenclick.ru
