@@ -1,7 +1,7 @@
 !Title: 4PDA Community hosts blacklist
-!Last modified: 23 Jun 2026 23:00 UTC
+!Last modified: 24 Jun 2026 23:00 UTC
 !Expires: 1 day
-!Records: 1269
+!Records: 1279
 
 0.0.0.0 02ip.ru
 0.0.0.0 04xmhp.ru
@@ -227,7 +227,6 @@
 0.0.0.0 asr.openssp.ru
 0.0.0.0 audi-club.ru
 0.0.0.0 audience.yandex.ru
-0.0.0.0 auth.sape.ru
 0.0.0.0 auth.tlauncher.ru
 0.0.0.0 auto.yuga.ru
 0.0.0.0 autocontext.begun.ru
@@ -276,6 +275,7 @@
 0.0.0.0 bjtajoox.ru
 0.0.0.0 blocked.botfaqtor.ru
 0.0.0.0 blog.sape.ru
+0.0.0.0 bms-cloud.ru
 0.0.0.0 bn.winlinebet.ru
 0.0.0.0 bonuscake.ru
 0.0.0.0 borzjournal.ru
@@ -381,6 +381,7 @@
 0.0.0.0 counter.yadro.ru
 0.0.0.0 counter.yandex.ru
 0.0.0.0 counters.adriver.ru
+0.0.0.0 covid-19.wp20.ru
 0.0.0.0 cp.onicon.ru
 0.0.0.0 cpa-elements.rambler.ru
 0.0.0.0 cpa.hh.ru
@@ -489,6 +490,7 @@
 0.0.0.0 ffoeefsheuesihfo.ru
 0.0.0.0 filedrive.nocoshop.ru
 0.0.0.0 filekeeper.nocoshop.ru
+0.0.0.0 files1.igry.ru
 0.0.0.0 filestation.nocoshop.ru
 0.0.0.0 filmplus.ru
 0.0.0.0 fin-banners-bt.wildberries.ru
@@ -570,6 +572,7 @@
 0.0.0.0 id.adx.com.ru
 0.0.0.0 id.google.ru
 0.0.0.0 ideibiznesa2015.ru
+0.0.0.0 igry.ru
 0.0.0.0 im-sentry.sportmaster.ru
 0.0.0.0 image.prlog.ru
 0.0.0.0 image.sendsay.ru
@@ -602,6 +605,7 @@
 0.0.0.0 j.adlooxtracking.ru
 0.0.0.0 j.uralweb.ru
 0.0.0.0 jet.zbp.ru
+0.0.0.0 job-info.ru
 0.0.0.0 jordan.qunis.ru
 0.0.0.0 journal-bt.wildberries.ru
 0.0.0.0 jps.ru
@@ -629,7 +633,6 @@
 0.0.0.0 leadback.ru
 0.0.0.0 leadball.ru
 0.0.0.0 leadgid.ru
-0.0.0.0 leadgidads.ru
 0.0.0.0 leadhit.ru
 0.0.0.0 leboard.ru
 0.0.0.0 lenta.2xclick.ru
@@ -653,6 +656,7 @@
 0.0.0.0 loki.maximonline.ru
 0.0.0.0 loyalty-sentry.dixy.ru
 0.0.0.0 lp.mobiletracking.ru
+0.0.0.0 lvtroy.ru
 0.0.0.0 m-api.a.mts.ru
 0.0.0.0 m-cm.a.mts.ru
 0.0.0.0 m.leboard.ru
@@ -713,6 +717,7 @@
 0.0.0.0 momijoy.ru
 0.0.0.0 mon.avito.ru
 0.0.0.0 morereferatov.ru
+0.0.0.0 morphed.ru
 0.0.0.0 motoren.ru
 0.0.0.0 movies5.fox-fan.ru
 0.0.0.0 mps.tlauncher.ru
@@ -794,6 +799,7 @@
 0.0.0.0 popupclick.ru
 0.0.0.0 posthog.livelib.ru
 0.0.0.0 prbn.ru
+0.0.0.0 pressms.ru
 0.0.0.0 pricelib.ru
 0.0.0.0 privacy-cs.mail.ru
 0.0.0.0 prlog.ru
@@ -1047,6 +1053,7 @@
 0.0.0.0 tags.soloway.ru
 0.0.0.0 tapstat.ru
 0.0.0.0 tbmods.ru
+0.0.0.0 tbn.ru
 0.0.0.0 teasers.ru
 0.0.0.0 tech.punchmedia.ru
 0.0.0.0 tech.rtb.mts.ru
@@ -1091,6 +1098,7 @@
 0.0.0.0 trk.mail.ru
 0.0.0.0 trkleads.ru
 0.0.0.0 ts.tracker-api.vk-analytics.ru
+0.0.0.0 tsidfrri.ru
 0.0.0.0 tt.ttarget.ru
 0.0.0.0 ttarget.ru
 0.0.0.0 turbobit.nocoshop.ru
@@ -1183,6 +1191,7 @@
 0.0.0.0 wordstat.yandex.ru
 0.0.0.0 work5.ru
 0.0.0.0 wowlink.ru
+0.0.0.0 wp20.ru
 0.0.0.0 wrc-info.ru
 0.0.0.0 ws.callibri.ru
 0.0.0.0 ws.calltouch.ru
@@ -1269,6 +1278,7 @@
 0.0.0.0 yhzn0f.ru
 0.0.0.0 yuga.ru
 0.0.0.0 zachestnyibiznes.ru
+0.0.0.0 zalive-akvilon.ru
 0.0.0.0 zen-mobile-site.mediascope.mc.yandex.ru
 0.0.0.0 zippyfiles.nocoshop.ru
 0.0.0.0 znate.ru
