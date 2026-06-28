@@ -1,7 +1,7 @@
 !Title: 4PDA Community hosts blacklist
-!Last modified: 26 Jun 2026 23:00 UTC
+!Last modified: 27 Jun 2026 23:00 UTC
 !Expires: 1 day
-!Records: 1294
+!Records: 1289
 
 0.0.0.0 02ip.ru
 0.0.0.0 04xmhp.ru
@@ -147,7 +147,6 @@
 0.0.0.0 adtec.ru
 0.0.0.0 adv.vz.ru
 0.0.0.0 advast.sibnet.ru
-0.0.0.0 advert-journal.ru
 0.0.0.0 advertise.ru
 0.0.0.0 advertising.ru
 0.0.0.0 advertising.yandex.ru
@@ -198,7 +197,6 @@
 0.0.0.0 analytics.tele2.ru
 0.0.0.0 analytics.vgtimes.ru
 0.0.0.0 anekbook.ru
-0.0.0.0 ankerch-crimea.ru
 0.0.0.0 antalya.ru
 0.0.0.0 api-an.tutu.ru
 0.0.0.0 api-statist.tinkoff.ru
@@ -251,7 +249,6 @@
 0.0.0.0 bambun.ru
 0.0.0.0 ban.zab.ru
 0.0.0.0 bank.yuga.ru
-0.0.0.0 bankocc.ru
 0.0.0.0 banner.aismo.ru
 0.0.0.0 banner.consultant.ru
 0.0.0.0 banner.zol.ru
@@ -739,6 +736,7 @@
 0.0.0.0 nel.wb.ru
 0.0.0.0 neobasnet.timeout.ru
 0.0.0.0 neosap.ru
+0.0.0.0 netlog.ru
 0.0.0.0 news.2xclick.ru
 0.0.0.0 news.gnezdo.ru
 0.0.0.0 news.gnezdo2.ru
@@ -803,7 +801,6 @@
 0.0.0.0 prbn.ru
 0.0.0.0 pressms.ru
 0.0.0.0 pricelib.ru
-0.0.0.0 priv-obr.ru
 0.0.0.0 privacy-cs.mail.ru
 0.0.0.0 prlog.ru
 0.0.0.0 prodmp.ru
@@ -1178,7 +1175,6 @@
 0.0.0.0 webim2.ru
 0.0.0.0 webkurchatov.ru
 0.0.0.0 weborama-tech.ru
-0.0.0.0 webpush-images.mindbox.ru
 0.0.0.0 webpush-imgproxy.g.mindbox.ru
 0.0.0.0 webstat.profi.ru
 0.0.0.0 websurf.ru
@@ -1293,7 +1289,6 @@
 0.0.0.0 yuga.ru
 0.0.0.0 zachestnyibiznes.ru
 0.0.0.0 zags.kurganobl.ru
-0.0.0.0 zalive-akvilon.ru
 0.0.0.0 zen-mobile-site.mediascope.mc.yandex.ru
 0.0.0.0 zippyfiles.nocoshop.ru
 0.0.0.0 znate.ru
