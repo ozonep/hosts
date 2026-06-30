@@ -1,7 +1,7 @@
 !Title: 4PDA Community hosts blacklist
-!Last modified: 27 Jun 2026 23:00 UTC
+!Last modified: 29 Jun 2026 23:00 UTC
 !Expires: 1 day
-!Records: 1289
+!Records: 1294
 
 0.0.0.0 02ip.ru
 0.0.0.0 04xmhp.ru
@@ -27,7 +27,6 @@
 0.0.0.0 423.ru
 0.0.0.0 45950.wavesend.ru
 0.0.0.0 48778.wavesend.ru
-0.0.0.0 4hunqp.ru
 0.0.0.0 4px.ru
 0.0.0.0 5-182-5-41.botfaqtor.ru
 0.0.0.0 531111.ms.dzen.ru
@@ -61,7 +60,6 @@
 0.0.0.0 6rn05mmbct.ru
 0.0.0.0 777-club.ru
 0.0.0.0 7nkbwdf1uq.ru
-0.0.0.0 7ooo.ru
 0.0.0.0 81640.mstat.mos.ru
 0.0.0.0 8si.ru
 0.0.0.0 931131.log.rutube.ru
@@ -97,9 +95,11 @@
 0.0.0.0 abs.firstvds.ru
 0.0.0.0 acollector.wb.ru
 0.0.0.0 actionpay.ru
+0.0.0.0 activespb.ru
 0.0.0.0 ad.adriver.ru
 0.0.0.0 ad.allboxing.ru
 0.0.0.0 ad.bannerhost.ru
+0.0.0.0 ad.betcity.ru
 0.0.0.0 ad.hutor.ru
 0.0.0.0 ad.kissanime.com.ru
 0.0.0.0 ad.mail.ru
@@ -145,6 +145,7 @@
 0.0.0.0 adsniper.ru
 0.0.0.0 adsrv.hh.ru
 0.0.0.0 adtec.ru
+0.0.0.0 adtv-service.teletarget.ru
 0.0.0.0 adv.vz.ru
 0.0.0.0 advast.sibnet.ru
 0.0.0.0 advertise.ru
@@ -191,7 +192,6 @@
 0.0.0.0 analytics.dns-shop.ru
 0.0.0.0 analytics.iportal.ru
 0.0.0.0 analytics.mediadash.ru
-0.0.0.0 analytics.move.ru
 0.0.0.0 analytics.sberhealth.ru
 0.0.0.0 analytics.sutochno.ru
 0.0.0.0 analytics.tele2.ru
@@ -241,7 +241,6 @@
 0.0.0.0 b2bcontext.ru
 0.0.0.0 b3.csdnevnik.ru
 0.0.0.0 b4.csdnevnik.ru
-0.0.0.0 b5.csdnevnik.ru
 0.0.0.0 b6.csdnevnik.ru
 0.0.0.0 back.winline.ru
 0.0.0.0 bakteso.ru
@@ -262,7 +261,6 @@
 0.0.0.0 bdgadv.ru
 0.0.0.0 be.a0.top.list.ru
 0.0.0.0 beacon.alice.yandex.ru
-0.0.0.0 bee-cake.ru
 0.0.0.0 begun.ru
 0.0.0.0 bestveb.ru
 0.0.0.0 beta.mediafort.ru
@@ -306,6 +304,7 @@
 0.0.0.0 cdn.adtec.ru
 0.0.0.0 cdn.adv-adplatform.ru
 0.0.0.0 cdn.advideo.ru
+0.0.0.0 cdn.adzone.ru
 0.0.0.0 cdn.bazr.ru
 0.0.0.0 cdn.botfaqtor.ru
 0.0.0.0 cdn.callibri.ru
@@ -332,7 +331,6 @@
 0.0.0.0 clck.ru
 0.0.0.0 clckdm.domclick.ru
 0.0.0.0 cleversite.ru
-0.0.0.0 click.rustore.ru
 0.0.0.0 click.yandex.ru
 0.0.0.0 clickbeat.sberdevices.ru
 0.0.0.0 clickfraud.ru
@@ -351,7 +349,6 @@
 0.0.0.0 code.clicktex.ru
 0.0.0.0 code.directadvert.ru
 0.0.0.0 code.moviead55.ru
-0.0.0.0 code.r5hsid.ru
 0.0.0.0 common.radar.imgsmail.ru
 0.0.0.0 connect-drru.hispace.dbankcloud.ru
 0.0.0.0 connect.ok.ru
@@ -376,7 +373,6 @@
 0.0.0.0 counter.nn.ru
 0.0.0.0 counter.pr-cy.ru
 0.0.0.0 counter.rambler.ru
-0.0.0.0 counter.reddigital.ru
 0.0.0.0 counter.yadro.ru
 0.0.0.0 counter.yandex.ru
 0.0.0.0 counters.adriver.ru
@@ -398,6 +394,7 @@
 0.0.0.0 css.yuga.ru
 0.0.0.0 cstatic-ru-cv.weborama-tech.ru
 0.0.0.0 cstatic.weborama-tech.ru
+0.0.0.0 cstor.nn2.ru
 0.0.0.0 ctx.weborama-tech.ru
 0.0.0.0 culturaltracking.ru
 0.0.0.0 cusok.ru
@@ -416,10 +413,12 @@
 0.0.0.0 datatracking.ru
 0.0.0.0 dcdn.heroeswm.ru
 0.0.0.0 dct.mango-office.ru
+0.0.0.0 de-luxe-profi.ru
 0.0.0.0 delta.mediafort.ru
 0.0.0.0 demo.punchmedia.ru
 0.0.0.0 dentalaboralcare.ru
 0.0.0.0 detmir-stats.ru
+0.0.0.0 devicesta.ru
 0.0.0.0 dienai.ru
 0.0.0.0 digitaltarget.ru
 0.0.0.0 direct.yandex.ru
@@ -456,6 +455,7 @@
 0.0.0.0 eimage.sendsay.ru
 0.0.0.0 elitpharma.ru
 0.0.0.0 email-images.mindbox.ru
+0.0.0.0 enfieldshop.ru
 0.0.0.0 erkugo.ru
 0.0.0.0 err.agava.ru
 0.0.0.0 err.apteka.ru
@@ -489,6 +489,7 @@
 0.0.0.0 ffoeefsheuesihfo.ru
 0.0.0.0 filedrive.nocoshop.ru
 0.0.0.0 filekeeper.nocoshop.ru
+0.0.0.0 files1.igry.ru
 0.0.0.0 filestation.nocoshop.ru
 0.0.0.0 filmplus.ru
 0.0.0.0 fin-banners-bt.wildberries.ru
@@ -496,6 +497,7 @@
 0.0.0.0 flotprom.ru
 0.0.0.0 flyroll.ru
 0.0.0.0 fmon.citilink.ru
+0.0.0.0 fondsautina.ru
 0.0.0.0 free-gluten.ru
 0.0.0.0 frontlog.tutu.ru
 0.0.0.0 frontmetrics.tutu.ru
@@ -570,6 +572,7 @@
 0.0.0.0 id.adx.com.ru
 0.0.0.0 id.google.ru
 0.0.0.0 ideibiznesa2015.ru
+0.0.0.0 igry.ru
 0.0.0.0 im-sentry.sportmaster.ru
 0.0.0.0 image.prlog.ru
 0.0.0.0 image.sendsay.ru
@@ -671,12 +674,10 @@
 0.0.0.0 masterh7.adriver.ru
 0.0.0.0 mastertarget.ru
 0.0.0.0 matchid.adfox.yandex.ru
-0.0.0.0 matomo-new.x5.ru
 0.0.0.0 matomo-tracker.usmall.ru
 0.0.0.0 matomo.datago.ru
 0.0.0.0 matomo.finam.ru
 0.0.0.0 matomo.tutu.ru
-0.0.0.0 matomo.x5.ru
 0.0.0.0 maylohack.ru
 0.0.0.0 mb9pzp.ru
 0.0.0.0 mc.kinopoisk.ru
@@ -761,7 +762,6 @@
 0.0.0.0 opendsp.ru
 0.0.0.0 openshare.nocoshop.ru
 0.0.0.0 openx.cnews.ru
-0.0.0.0 optawa.ru
 0.0.0.0 ostrich.vedomosti.ru
 0.0.0.0 otclick-adv.ru
 0.0.0.0 otvet.radar.imgsmail.ru
@@ -801,6 +801,7 @@
 0.0.0.0 prbn.ru
 0.0.0.0 pressms.ru
 0.0.0.0 pricelib.ru
+0.0.0.0 priv-obr.ru
 0.0.0.0 privacy-cs.mail.ru
 0.0.0.0 prlog.ru
 0.0.0.0 prodmp.ru
@@ -854,6 +855,7 @@
 0.0.0.0 rezale.ru
 0.0.0.0 riabir.ru
 0.0.0.0 richmedia.wavesend.ru
+0.0.0.0 rlnic.ru
 0.0.0.0 rmbn.ru
 0.0.0.0 rmetrics.ru
 0.0.0.0 rot.rusoul.ru
@@ -876,6 +878,7 @@
 0.0.0.0 rum3.cdnvideo.ru
 0.0.0.0 rum4.cdnvideo.ru
 0.0.0.0 rum5.cdnvideo.ru
+0.0.0.0 rum6.cdnvideo.ru
 0.0.0.0 rumstat-01.cdnvideo.ru
 0.0.0.0 rumstat.cdnvideo.ru
 0.0.0.0 rustrackers.ru
@@ -899,6 +902,7 @@
 0.0.0.0 sentry-ingest.kuper.ru
 0.0.0.0 sentry-mobile-ingest.kuper.ru
 0.0.0.0 sentry-mobile.alfabank.ru
+0.0.0.0 sentry-mobile.avito.ru
 0.0.0.0 sentry-mobile.ivi.ru
 0.0.0.0 sentry-mobile.lamoda.ru
 0.0.0.0 sentry-mobile.lamodatech.ru
@@ -908,6 +912,7 @@
 0.0.0.0 sentry-saas.rambler-co.ru
 0.0.0.0 sentry-tech.cdek.ru
 0.0.0.0 sentry.baseomni.ru
+0.0.0.0 sentry.cable.ru
 0.0.0.0 sentry.citydrive.ru
 0.0.0.0 sentry.domclick.ru
 0.0.0.0 sentry.hh.ru
@@ -916,11 +921,9 @@
 0.0.0.0 sentry.matchtv.ru
 0.0.0.0 sentry.megapteka.ru
 0.0.0.0 sentry.mm.ru
-0.0.0.0 sentry.mobile.bristol.ru
 0.0.0.0 sentry.mos.ru
 0.0.0.0 sentry.obs.mts.ru
 0.0.0.0 sentry.ozon.ru
-0.0.0.0 sentry.p.ecnl.ru
 0.0.0.0 sentry.poryadok.ru
 0.0.0.0 sentry.sca.ad-tech.ru
 0.0.0.0 sentry.sravni-team.ru
@@ -1016,6 +1019,7 @@
 0.0.0.0 static.banner.aismo.ru
 0.0.0.0 static.bs-dante.ru
 0.0.0.0 static.calltouch.ru
+0.0.0.0 static.de-luxe-profi.ru
 0.0.0.0 static.marketolog.mts.ru
 0.0.0.0 static.me-talk.ru
 0.0.0.0 static.nativerent.ru
@@ -1058,6 +1062,7 @@
 0.0.0.0 tagmanager.andata.ru
 0.0.0.0 tags.adriver.ru
 0.0.0.0 tags.soloway.ru
+0.0.0.0 takedrivers.ru
 0.0.0.0 tapstat.ru
 0.0.0.0 tbmods.ru
 0.0.0.0 tbn.ru
@@ -1148,7 +1153,6 @@
 0.0.0.0 videonow.ru
 0.0.0.0 videoprodavec.ru
 0.0.0.0 vidroll.ru
-0.0.0.0 vigvam.ru
 0.0.0.0 vihub.ru
 0.0.0.0 vipko.ru
 0.0.0.0 visor.sberbank.ru
@@ -1175,6 +1179,7 @@
 0.0.0.0 webim2.ru
 0.0.0.0 webkurchatov.ru
 0.0.0.0 weborama-tech.ru
+0.0.0.0 webpush-images.mindbox.ru
 0.0.0.0 webpush-imgproxy.g.mindbox.ru
 0.0.0.0 webstat.profi.ru
 0.0.0.0 websurf.ru
