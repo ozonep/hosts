@@ -1,7 +1,7 @@
 !Title: 4PDA Community hosts blacklist
-!Last modified: 29 Jun 2026 23:00 UTC
+!Last modified: 30 Jun 2026 23:00 UTC
 !Expires: 1 day
-!Records: 1294
+!Records: 1286
 
 0.0.0.0 02ip.ru
 0.0.0.0 04xmhp.ru
@@ -95,11 +95,9 @@
 0.0.0.0 abs.firstvds.ru
 0.0.0.0 acollector.wb.ru
 0.0.0.0 actionpay.ru
-0.0.0.0 activespb.ru
 0.0.0.0 ad.adriver.ru
 0.0.0.0 ad.allboxing.ru
 0.0.0.0 ad.bannerhost.ru
-0.0.0.0 ad.betcity.ru
 0.0.0.0 ad.hutor.ru
 0.0.0.0 ad.kissanime.com.ru
 0.0.0.0 ad.mail.ru
@@ -145,7 +143,6 @@
 0.0.0.0 adsniper.ru
 0.0.0.0 adsrv.hh.ru
 0.0.0.0 adtec.ru
-0.0.0.0 adtv-service.teletarget.ru
 0.0.0.0 adv.vz.ru
 0.0.0.0 advast.sibnet.ru
 0.0.0.0 advertise.ru
@@ -172,6 +169,7 @@
 0.0.0.0 agency2.ru
 0.0.0.0 ai.technocore.ru
 0.0.0.0 aifishki.ru
+0.0.0.0 aitradingfree.ru
 0.0.0.0 aksonural.ru
 0.0.0.0 alapage.ru
 0.0.0.0 alarmobninsk.ru
@@ -394,7 +392,6 @@
 0.0.0.0 css.yuga.ru
 0.0.0.0 cstatic-ru-cv.weborama-tech.ru
 0.0.0.0 cstatic.weborama-tech.ru
-0.0.0.0 cstor.nn2.ru
 0.0.0.0 ctx.weborama-tech.ru
 0.0.0.0 culturaltracking.ru
 0.0.0.0 cusok.ru
@@ -413,12 +410,10 @@
 0.0.0.0 datatracking.ru
 0.0.0.0 dcdn.heroeswm.ru
 0.0.0.0 dct.mango-office.ru
-0.0.0.0 de-luxe-profi.ru
 0.0.0.0 delta.mediafort.ru
 0.0.0.0 demo.punchmedia.ru
 0.0.0.0 dentalaboralcare.ru
 0.0.0.0 detmir-stats.ru
-0.0.0.0 devicesta.ru
 0.0.0.0 dienai.ru
 0.0.0.0 digitaltarget.ru
 0.0.0.0 direct.yandex.ru
@@ -489,7 +484,6 @@
 0.0.0.0 ffoeefsheuesihfo.ru
 0.0.0.0 filedrive.nocoshop.ru
 0.0.0.0 filekeeper.nocoshop.ru
-0.0.0.0 files1.igry.ru
 0.0.0.0 filestation.nocoshop.ru
 0.0.0.0 filmplus.ru
 0.0.0.0 fin-banners-bt.wildberries.ru
@@ -497,7 +491,6 @@
 0.0.0.0 flotprom.ru
 0.0.0.0 flyroll.ru
 0.0.0.0 fmon.citilink.ru
-0.0.0.0 fondsautina.ru
 0.0.0.0 free-gluten.ru
 0.0.0.0 frontlog.tutu.ru
 0.0.0.0 frontmetrics.tutu.ru
@@ -532,6 +525,7 @@
 0.0.0.0 h21.ru
 0.0.0.0 ha-front.wavesend.ru
 0.0.0.0 haproxy-api-yc-v3-lb.mindbox.ru
+0.0.0.0 hc.uralweb.ru
 0.0.0.0 heroeswm.ru
 0.0.0.0 hhcdn.ru
 0.0.0.0 hit.28yw0a.ru
@@ -572,7 +566,6 @@
 0.0.0.0 id.adx.com.ru
 0.0.0.0 id.google.ru
 0.0.0.0 ideibiznesa2015.ru
-0.0.0.0 igry.ru
 0.0.0.0 im-sentry.sportmaster.ru
 0.0.0.0 image.prlog.ru
 0.0.0.0 image.sendsay.ru
@@ -715,7 +708,6 @@
 0.0.0.0 module.callibri.ru
 0.0.0.0 momijoy.ru
 0.0.0.0 mon.avito.ru
-0.0.0.0 morereferatov.ru
 0.0.0.0 morphed.ru
 0.0.0.0 motoren.ru
 0.0.0.0 movies5.fox-fan.ru
@@ -746,6 +738,8 @@
 0.0.0.0 news.smi2.ru
 0.0.0.0 nkwnb7.ru
 0.0.0.0 novosti.gnezdo.ru
+0.0.0.0 ns1.rlnic.ru
+0.0.0.0 ns2.rlnic.ru
 0.0.0.0 nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru
 0.0.0.0 ntvk1.ru
 0.0.0.0 nytva-nmz.ru
@@ -801,7 +795,6 @@
 0.0.0.0 prbn.ru
 0.0.0.0 pressms.ru
 0.0.0.0 pricelib.ru
-0.0.0.0 priv-obr.ru
 0.0.0.0 privacy-cs.mail.ru
 0.0.0.0 prlog.ru
 0.0.0.0 prodmp.ru
@@ -878,7 +871,6 @@
 0.0.0.0 rum3.cdnvideo.ru
 0.0.0.0 rum4.cdnvideo.ru
 0.0.0.0 rum5.cdnvideo.ru
-0.0.0.0 rum6.cdnvideo.ru
 0.0.0.0 rumstat-01.cdnvideo.ru
 0.0.0.0 rumstat.cdnvideo.ru
 0.0.0.0 rustrackers.ru
@@ -1019,7 +1011,6 @@
 0.0.0.0 static.banner.aismo.ru
 0.0.0.0 static.bs-dante.ru
 0.0.0.0 static.calltouch.ru
-0.0.0.0 static.de-luxe-profi.ru
 0.0.0.0 static.marketolog.mts.ru
 0.0.0.0 static.me-talk.ru
 0.0.0.0 static.nativerent.ru
@@ -1223,6 +1214,7 @@
 0.0.0.0 www.adv.yandex.ru
 0.0.0.0 www.advaction.ru
 0.0.0.0 www.advertising.yandex.ru
+0.0.0.0 www.aitradingfree.ru
 0.0.0.0 www.aksonural.ru
 0.0.0.0 www.alfa-medosmotr.ru
 0.0.0.0 www.all4wap.ru
