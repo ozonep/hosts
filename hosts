@@ -1,7 +1,7 @@
 !Title: 4PDA Community hosts blacklist
-!Last modified: 30 Jun 2026 23:00 UTC
+!Last modified: 01 Jul 2026 23:00 UTC
 !Expires: 1 day
-!Records: 1286
+!Records: 1284
 
 0.0.0.0 02ip.ru
 0.0.0.0 04xmhp.ru
@@ -302,7 +302,6 @@
 0.0.0.0 cdn.adtec.ru
 0.0.0.0 cdn.adv-adplatform.ru
 0.0.0.0 cdn.advideo.ru
-0.0.0.0 cdn.adzone.ru
 0.0.0.0 cdn.bazr.ru
 0.0.0.0 cdn.botfaqtor.ru
 0.0.0.0 cdn.callibri.ru
@@ -1170,7 +1169,6 @@
 0.0.0.0 webim2.ru
 0.0.0.0 webkurchatov.ru
 0.0.0.0 weborama-tech.ru
-0.0.0.0 webpush-images.mindbox.ru
 0.0.0.0 webpush-imgproxy.g.mindbox.ru
 0.0.0.0 webstat.profi.ru
 0.0.0.0 websurf.ru
