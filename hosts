@@ -1,7 +1,7 @@
 !Title: 4PDA Community hosts blacklist
-!Last modified: 01 Jul 2026 23:00 UTC
+!Last modified: 03 Jul 2026 23:00 UTC
 !Expires: 1 day
-!Records: 1284
+!Records: 1291
 
 0.0.0.0 02ip.ru
 0.0.0.0 04xmhp.ru
@@ -37,6 +37,7 @@
 0.0.0.0 531511.ms.dzen.ru
 0.0.0.0 532121.ms.dzen.ru
 0.0.0.0 532411.ms.dzen.ru
+0.0.0.0 532431.ms.dzen.ru
 0.0.0.0 541111.ms.dzen.ru
 0.0.0.0 541121.ms.dzen.ru
 0.0.0.0 541211.ms.dzen.ru
@@ -52,6 +53,7 @@
 0.0.0.0 551511.ms.dzen.ru
 0.0.0.0 552121.ms.dzen.ru
 0.0.0.0 552411.ms.dzen.ru
+0.0.0.0 552431.ms.dzen.ru
 0.0.0.0 58sport.ru
 0.0.0.0 5d0rac.ru
 0.0.0.0 5dhnv8.ru
@@ -195,6 +197,7 @@
 0.0.0.0 analytics.tele2.ru
 0.0.0.0 analytics.vgtimes.ru
 0.0.0.0 anekbook.ru
+0.0.0.0 animesvosts.ru
 0.0.0.0 antalya.ru
 0.0.0.0 api-an.tutu.ru
 0.0.0.0 api-statist.tinkoff.ru
@@ -469,6 +472,7 @@
 0.0.0.0 eye.agency2.ru
 0.0.0.0 eyenewton.ru
 0.0.0.0 ezstat.ru
+0.0.0.0 f.zakat.ru
 0.0.0.0 f38172564ba14286bb82bf16185a1a28.ops.beeline.ru
 0.0.0.0 fabrikamebelispb.ru
 0.0.0.0 fast2load.ru
@@ -964,6 +968,7 @@
 0.0.0.0 soglkuki.prolexgroup.ru
 0.0.0.0 soloway.ru
 0.0.0.0 somicrososoft.ru
+0.0.0.0 soplifan.ru
 0.0.0.0 sopr-api.cian.ru
 0.0.0.0 southrap.ru
 0.0.0.0 sovetnik.market.yandex.ru
@@ -1032,6 +1037,7 @@
 0.0.0.0 stmtag.ru
 0.0.0.0 store-sentry.vkplay.ru
 0.0.0.0 stream.datago.ru
+0.0.0.0 studlance.ru
 0.0.0.0 subscriptions.rambler.ru
 0.0.0.0 superstyle.ru
 0.0.0.0 supertop.ru
@@ -1284,6 +1290,7 @@
 0.0.0.0 yuga.ru
 0.0.0.0 zachestnyibiznes.ru
 0.0.0.0 zags.kurganobl.ru
+0.0.0.0 zakat.ru
 0.0.0.0 zen-mobile-site.mediascope.mc.yandex.ru
 0.0.0.0 zippyfiles.nocoshop.ru
 0.0.0.0 znate.ru
