@@ -1,7 +1,7 @@
 !Title: 4PDA Community hosts blacklist
-!Last modified: 06 Jul 2026 23:00 UTC
+!Last modified: 11 Jul 2026 23:00 UTC
 !Expires: 1 day
-!Records: 1397
+!Records: 1401
 
 0.0.0.0 02ip.ru
 0.0.0.0 04xmhp.ru
@@ -154,7 +154,6 @@
 0.0.0.0 adtec.ru
 0.0.0.0 adv.vz.ru
 0.0.0.0 advast.sibnet.ru
-0.0.0.0 advert-journal.ru
 0.0.0.0 advertise.ru
 0.0.0.0 advertising.ru
 0.0.0.0 advertising.yandex.ru
@@ -202,6 +201,7 @@
 0.0.0.0 analytics.dns-shop.ru
 0.0.0.0 analytics.iportal.ru
 0.0.0.0 analytics.mediadash.ru
+0.0.0.0 analytics.move.ru
 0.0.0.0 analytics.sberhealth.ru
 0.0.0.0 analytics.sutochno.ru
 0.0.0.0 analytics.tele2.ru
@@ -306,7 +306,6 @@
 0.0.0.0 bugpuk.ru
 0.0.0.0 bvl5bziz9d.ru
 0.0.0.0 c.admetr.ru
-0.0.0.0 c.botfaqtor.ru
 0.0.0.0 c.sibnet.ru
 0.0.0.0 c.snsv.ru
 0.0.0.0 c2.saintpetersburgresident.ru
@@ -314,6 +313,7 @@
 0.0.0.0 cabinet.adzone.ru
 0.0.0.0 callback.onlinepbx.ru
 0.0.0.0 callibri.ru
+0.0.0.0 cartechnic.ru
 0.0.0.0 catsnetwork.ru
 0.0.0.0 cb07c9e3599a496095efe7448718de6c.ops.beeline.ru
 0.0.0.0 cc.calltracking.ru
@@ -376,6 +376,7 @@
 0.0.0.0 code.directadvert.ru
 0.0.0.0 code.moviead55.ru
 0.0.0.0 cogitoergo.ru
+0.0.0.0 comm.faststart.ru
 0.0.0.0 common.radar.imgsmail.ru
 0.0.0.0 connect-drru.hispace.dbankcloud.ru
 0.0.0.0 connect.ok.ru
@@ -440,8 +441,6 @@
 0.0.0.0 data.videonow.ru
 0.0.0.0 datatracking.ru
 0.0.0.0 dcdn.heroeswm.ru
-0.0.0.0 dct.mango-office.ru
-0.0.0.0 de-luxe-profi.ru
 0.0.0.0 de.vsexshop.ru
 0.0.0.0 dell-partner.ru
 0.0.0.0 delta.mediafort.ru
@@ -516,6 +515,7 @@
 0.0.0.0 fartlaslu.didns.ru
 0.0.0.0 fast2load.ru
 0.0.0.0 fastfine.ru
+0.0.0.0 faststart.ru
 0.0.0.0 faststat.advideo.ru
 0.0.0.0 fb2portal.ru
 0.0.0.0 fcgi4.gnezdo.ru
@@ -534,7 +534,6 @@
 0.0.0.0 filmplus.ru
 0.0.0.0 fin-banners-bt.wildberries.ru
 0.0.0.0 find-photo.ru
-0.0.0.0 finpremium.ru
 0.0.0.0 flotprom.ru
 0.0.0.0 flusnews.ru
 0.0.0.0 flyroll.ru
@@ -544,18 +543,19 @@
 0.0.0.0 free-gluten.ru
 0.0.0.0 frontlog.tutu.ru
 0.0.0.0 frontmetrics.tutu.ru
+0.0.0.0 fulledu.ru
 0.0.0.0 g4blin.ru
 0.0.0.0 gamelights.ru
 0.0.0.0 gate.leadgenic.ru
 0.0.0.0 gb2-banners.adriver.ru
 0.0.0.0 gb2-files.adriver.ru
-0.0.0.0 gd.1cont.ru
 0.0.0.0 gdeslon.ru
 0.0.0.0 gdl.i9dhjx.ru
-0.0.0.0 gdl.topoads.ru
 0.0.0.0 geofamily.ru
 0.0.0.0 get-ads.ru
+0.0.0.0 get-styles.ru
 0.0.0.0 getads.ru
+0.0.0.0 getandgo.ru
 0.0.0.0 getyoursoft.ru
 0.0.0.0 gigamega.ru
 0.0.0.0 girlporn.ru
@@ -573,7 +573,6 @@
 0.0.0.0 greatgrace.ru
 0.0.0.0 grs-pub.platform.dbankcloud.ru
 0.0.0.0 gso.amocrm.ru
-0.0.0.0 gw.botfaqtor.ru
 0.0.0.0 gw2.botfaqtor.ru
 0.0.0.0 h21.ru
 0.0.0.0 ha-front.wavesend.ru
@@ -592,7 +591,6 @@
 0.0.0.0 hit.udqrh6.ru
 0.0.0.0 hit.x81p4z.ru
 0.0.0.0 hit.xgd3kl.ru
-0.0.0.0 hit.yhzn0f.ru
 0.0.0.0 hitcrypt.04xmhp.ru
 0.0.0.0 hitcrypt.9levl1.ru
 0.0.0.0 hitcrypt.g4blin.ru
@@ -609,6 +607,7 @@
 0.0.0.0 hitman-pro.ru
 0.0.0.0 holm.ru
 0.0.0.0 homework.ru
+0.0.0.0 host.ru
 0.0.0.0 hoster-test.ru
 0.0.0.0 hosumwoll.didns.ru
 0.0.0.0 hot-guys.ru
@@ -632,6 +631,9 @@
 0.0.0.0 img0.liveinternet.ru
 0.0.0.0 img01.ad-tech.ru
 0.0.0.0 img1.advertology.ru
+0.0.0.0 imgredirect.ad-tech.ru
+0.0.0.0 imgserve.ad-tech.ru
+0.0.0.0 imgstats.ad-tech.ru
 0.0.0.0 imobilco.ru
 0.0.0.0 indetiske.ya.ru
 0.0.0.0 inetlog.ru
@@ -652,6 +654,7 @@
 0.0.0.0 ipnodns.ru
 0.0.0.0 irveree.didns.ru
 0.0.0.0 is.luxup.ru
+0.0.0.0 islon.ru
 0.0.0.0 j.adlooxtracking.ru
 0.0.0.0 j.uralweb.ru
 0.0.0.0 jasoungu.didns.ru
@@ -717,9 +720,11 @@
 0.0.0.0 loyalty-sentry.dixy.ru
 0.0.0.0 lp.mobiletracking.ru
 0.0.0.0 lvtroy.ru
+0.0.0.0 lynxsecurity.ru
 0.0.0.0 m-api.a.mts.ru
 0.0.0.0 m-cm.a.mts.ru
 0.0.0.0 m.leboard.ru
+0.0.0.0 m.spartakfanat.ru
 0.0.0.0 m.winline.ru
 0.0.0.0 m1-shop.ru
 0.0.0.0 magna.ru
@@ -820,6 +825,7 @@
 0.0.0.0 omniqa.ru
 0.0.0.0 onenews24.ru
 0.0.0.0 onetarget.ru
+0.0.0.0 onfeed.ru
 0.0.0.0 opendsp.ru
 0.0.0.0 openshare.nocoshop.ru
 0.0.0.0 openx.cnews.ru
@@ -883,7 +889,6 @@
 0.0.0.0 ps2.punchmedia.ru
 0.0.0.0 pseyumd.ru
 0.0.0.0 pu.softlot.ru
-0.0.0.0 pub.nashindex.ru
 0.0.0.0 punchmedia.ru
 0.0.0.0 push.svk-native.ru
 0.0.0.0 pushlog.wsoft.ru
@@ -898,6 +903,7 @@
 0.0.0.0 quotiq.ru
 0.0.0.0 r0.mail.ru
 0.0.0.0 r3.mail.ru
+0.0.0.0 rabota.directrix.ru
 0.0.0.0 radar.imgsmail.ru
 0.0.0.0 radio.mediametrics.ru
 0.0.0.0 rate.ru
@@ -922,6 +928,7 @@
 0.0.0.0 report.ap.yandex-net.ru
 0.0.0.0 req.pm2.punchmedia.ru
 0.0.0.0 res.tlauncher.ru
+0.0.0.0 rezale.ru
 0.0.0.0 riabir.ru
 0.0.0.0 richmedia.wavesend.ru
 0.0.0.0 rlnic.ru
@@ -947,7 +954,6 @@
 0.0.0.0 rum3.cdnvideo.ru
 0.0.0.0 rum4.cdnvideo.ru
 0.0.0.0 rum5.cdnvideo.ru
-0.0.0.0 rum6.cdnvideo.ru
 0.0.0.0 rumstat-01.cdnvideo.ru
 0.0.0.0 rumstat.cdnvideo.ru
 0.0.0.0 rustrackers.ru
@@ -1055,6 +1061,7 @@
 0.0.0.0 sp.aviasales.ru
 0.0.0.0 spalneochee.didns.ru
 0.0.0.0 sparrow.ru
+0.0.0.0 spartakfanat.ru
 0.0.0.0 sporttouch.radar.imgsmail.ru
 0.0.0.0 srv250136.hoster-test.ru
 0.0.0.0 ssl.adriver.ru
@@ -1096,7 +1103,6 @@
 0.0.0.0 static.banner.aismo.ru
 0.0.0.0 static.bs-dante.ru
 0.0.0.0 static.calltouch.ru
-0.0.0.0 static.de-luxe-profi.ru
 0.0.0.0 static.marketolog.mts.ru
 0.0.0.0 static.me-talk.ru
 0.0.0.0 static.nativerent.ru
@@ -1158,7 +1164,6 @@
 0.0.0.0 test.gutir.ru
 0.0.0.0 test.rutube.ru
 0.0.0.0 testingmetriksbre.ru
-0.0.0.0 texasinst.ru
 0.0.0.0 tgel2ebtx.ru
 0.0.0.0 tharelust.didns.ru
 0.0.0.0 theiconto.didns.ru
@@ -1186,6 +1191,7 @@
 0.0.0.0 touchmail.radar.imgsmail.ru
 0.0.0.0 trace-flow.ru
 0.0.0.0 track.ssnd.ru
+0.0.0.0 track.tbank.ru
 0.0.0.0 track.wfolio.ru
 0.0.0.0 tracker-api.vk-analytics.ru
 0.0.0.0 tracker.comagic.ru
@@ -1259,7 +1265,6 @@
 0.0.0.0 w.rulive.ru
 0.0.0.0 wavesend.ru
 0.0.0.0 wcm.weborama-tech.ru
-0.0.0.0 weatherarchive.ru
 0.0.0.0 web-metrica.yandex.ru
 0.0.0.0 web-metrics.cdek.ru
 0.0.0.0 web-static-no-content.g.mindbox.ru
@@ -1271,6 +1276,7 @@
 0.0.0.0 webim2.ru
 0.0.0.0 webkurchatov.ru
 0.0.0.0 weborama-tech.ru
+0.0.0.0 webpush-images.mindbox.ru
 0.0.0.0 webpush-imgproxy.g.mindbox.ru
 0.0.0.0 webstat.profi.ru
 0.0.0.0 websurf.ru
@@ -1372,7 +1378,6 @@
 0.0.0.0 www.toptracker.ru
 0.0.0.0 www.unlockers.ru
 0.0.0.0 www.videonow.ru
-0.0.0.0 www.weatherarchive.ru
 0.0.0.0 www.wemadepro.ru
 0.0.0.0 www.wm-goldenclick.ru
 0.0.0.0 www.wordstat.yandex.ru
@@ -1390,7 +1395,6 @@
 0.0.0.0 yadro.ru
 0.0.0.0 yandex.federicod4.sg-hosadmin.vm-cs.ru
 0.0.0.0 yast.rutube.ru
-0.0.0.0 yhzn0f.ru
 0.0.0.0 yuga.ru
 0.0.0.0 zachestnyibiznes.ru
 0.0.0.0 zags.kurganobl.ru
