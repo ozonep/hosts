@@ -1,13 +1,16 @@
 !Title: 4PDA Community hosts blacklist
-!Last modified: 09 Aug 2026 23:00 UTC
+!Last modified: 10 Aug 2026 23:00 UTC
 !Expires: 1 day
-!Records: 297869
+!Records: 295577
 
 0.0.0.0 10156416.fls.doubleclick.net
 0.0.0.0 10231870.fls.doubleclick.net
 0.0.0.0 10359450.fls.doubleclick.net
+0.0.0.0 10870585.fls.doubleclick.net
 0.0.0.0 11097324.fls.doubleclick.net
 0.0.0.0 11309106.fls.doubleclick.net
+0.0.0.0 12054890.fls.doubleclick.net
+0.0.0.0 12147099.fls.doubleclick.net
 0.0.0.0 12646605.fls.doubleclick.net
 0.0.0.0 12743290.fls.doubleclick.net
 0.0.0.0 12817546.fls.doubleclick.net
@@ -19,6 +22,7 @@
 0.0.0.0 13503026.fls.doubleclick.net
 0.0.0.0 13620287.fls.doubleclick.net
 0.0.0.0 14456787.fls.doubleclick.net
+0.0.0.0 14498541.fls.doubleclick.net
 0.0.0.0 14533878.fls.doubleclick.net
 0.0.0.0 14613586.fls.doubleclick.net
 0.0.0.0 14719104.fls.doubleclick.net
@@ -45,11 +49,14 @@
 0.0.0.0 531431.ms.dzen.ru
 0.0.0.0 541431.ms.dzen.ru
 0.0.0.0 551431.ms.dzen.ru
+0.0.0.0 6105801.fls.doubleclick.net
+0.0.0.0 6901668.fls.doubleclick.net
 0.0.0.0 6nquxfabb.cc.rs6.net
 0.0.0.0 7bsy55mab.cc.rs6.net
 0.0.0.0 7f077-eu.v.fwmrm.net
 0.0.0.0 8204599.fls.doubleclick.net
 0.0.0.0 8624617.fls.doubleclick.net
+0.0.0.0 8649505.fls.doubleclick.net
 0.0.0.0 8661878.fls.doubleclick.net
 0.0.0.0 8988548.fls.doubleclick.net
 0.0.0.0 9257501.fls.doubleclick.net
@@ -57,6 +64,7 @@
 0.0.0.0 9722614.fls.doubleclick.net
 0.0.0.0 9tgpchpab.cc.rs6.net
 0.0.0.0 addynamo.net
+0.0.0.0 admin.beaconimages.netflix.net
 0.0.0.0 advertoix.xml-v4.ak-is2.net
 0.0.0.0 af.meteocast.net
 0.0.0.0 akcinea.net
@@ -70,6 +78,7 @@
 0.0.0.0 analytics.datatables.net
 0.0.0.0 andfauna.net
 0.0.0.0 anresources.net
+0.0.0.0 antibot.wildberries.ru
 0.0.0.0 api2.lab.amplitude.com.cdn.cloudflare.net
 0.0.0.0 appvexo.net
 0.0.0.0 ar.cuteasiangirl.net
@@ -96,7 +105,9 @@
 0.0.0.0 bann.nr-data.net
 0.0.0.0 bedrockmonvex.net
 0.0.0.0 beltvanvornix.net
+0.0.0.0 beta.beaconimages.netflix.net
 0.0.0.0 beursekvar.net
+0.0.0.0 bidfly.net
 0.0.0.0 bielik-nodura.net
 0.0.0.0 bieliknodura.net
 0.0.0.0 bilitage.net
@@ -105,6 +116,7 @@
 0.0.0.0 bitcoinsmarter.net
 0.0.0.0 bjorkavkastholm.net
 0.0.0.0 blayrixnode-gpt.net
+0.0.0.0 blog.beaconimages.netflix.net
 0.0.0.0 bombrdvab.cc.rs6.net
 0.0.0.0 bor-ziskanta.net
 0.0.0.0 borealgewinstead.net
@@ -126,21 +138,25 @@
 0.0.0.0 buk-mienitek.net
 0.0.0.0 bukmienitek.net
 0.0.0.0 bursztynzyskava.net
+0.0.0.0 cache.nebula.phx3.secureserver.net
 0.0.0.0 cam3ra1.dynv6.net
 0.0.0.0 canadainsightshub.net
 0.0.0.0 capitaltradingai.net
 0.0.0.0 captcha.yiyunds.net
+0.0.0.0 caraml.net
 0.0.0.0 cedr-inwestek.net
 0.0.0.0 cedrinwestek.net
 0.0.0.0 cerfrendoire.net
 0.0.0.0 cf-envoy-infra-api-stg2a.nr-data.net
 0.0.0.0 chantan.s-host.net
+0.0.0.0 cheatingporn.net
 0.0.0.0 cheongmyeongfintrex.net
 0.0.0.0 chevronlubricants.demdex.net
 0.0.0.0 chi-prod-infra-alert-auth.nr-data.net
 0.0.0.0 chi-staging-infra-alert-auth.nr-data.net
 0.0.0.0 chi-staging-infra-inventory-ingest.nr-data.net
 0.0.0.0 circuitboardarena.net
+0.0.0.0 click.beaconimages.netflix.net
 0.0.0.0 cloud-collector.dualstack.eu01.nr-data.net
 0.0.0.0 cloud-collector.dualstack.nr-data.net
 0.0.0.0 cn-ifp.apitd.net
@@ -305,6 +321,7 @@
 0.0.0.0 futuristicfondix.net
 0.0.0.0 fyvexlabfinai.net
 0.0.0.0 gamestorepay.net
+0.0.0.0 gateway.beaconimages.netflix.net
 0.0.0.0 gorodvlesu.ru
 0.0.0.0 gov-bam-pool.nr-data.net
 0.0.0.0 gov-staging-bam-pool.nr-data.net
@@ -315,6 +332,7 @@
 0.0.0.0 helvetisvector.net
 0.0.0.0 helvinova.net
 0.0.0.0 hexacoder.net
+0.0.0.0 hnfxwl.net
 0.0.0.0 hosting-maga.ru
 0.0.0.0 hozaplatownia.net
 0.0.0.0 httptools.esc.nr-data.net
@@ -340,6 +358,7 @@
 0.0.0.0 jp-fawn-lily.cell.jp.nr-data.net
 0.0.0.0 jp-hungry-honey.cell.jp.nr-data.net
 0.0.0.0 jp-river-lupine.cell.jp.nr-data.net
+0.0.0.0 jp3a.cell.us.nr-data.net
 0.0.0.0 k8vif92e6h7apjicaxhrrofde7tryyb7afne55kc822987859e53050bam1.e.aa.online-metrix.net
 0.0.0.0 ka.meteocast.net
 0.0.0.0 kapitarynvexon.net
@@ -424,6 +443,7 @@
 0.0.0.0 r1.sn-aigzrnsz.c.2mdn.net
 0.0.0.0 r1.sn-ajaig5-5v.c.2mdn.net
 0.0.0.0 r1.sn-bg0s7n7s.c.2mdn.net
+0.0.0.0 r1.sn-woc7kne6.c.2mdn.net
 0.0.0.0 r2.sn-2obg05-j3.c.2mdn.net
 0.0.0.0 r2.sn-q4flrnee.c.2mdn.net
 0.0.0.0 r3.sn-2onx5c-5b.c.2mdn.net
@@ -457,6 +477,7 @@
 0.0.0.0 rr5.sn-bg0s7n7r.c.2mdn.net
 0.0.0.0 rtb-eu.rtbplatform.net
 0.0.0.0 ru.meteocast.net
+0.0.0.0 s1.caraml.net
 0.0.0.0 sablekapithaven.net
 0.0.0.0 sagagroup1.demdex.net
 0.0.0.0 santaads.rtb-useast-v4.ak-is2.net
@@ -465,7 +486,9 @@
 0.0.0.0 sazerac.demdex.net
 0.0.0.0 schimbvalutarpro.net
 0.0.0.0 scottish-scoobies.net
+0.0.0.0 secure-canadian-pharmacy.net
 0.0.0.0 sentry-devtools.qsrapp.ru
+0.0.0.0 sentry.a0s.net
 0.0.0.0 sentry.p.ecnl.ru
 0.0.0.0 serrafundivo.net
 0.0.0.0 server-log.geocomply.net
@@ -501,9 +524,14 @@
 0.0.0.0 stg-comfy-chair.cell.us.nr-data.net
 0.0.0.0 stg-dl.geocomply.net
 0.0.0.0 stg-gamma-knife.cell.us.nr-data.net
+0.0.0.0 stg-holy-grail.cell.us.nr-data.net
 0.0.0.0 stg-hurdy-gurdy.cell.us.nr-data.net
+0.0.0.0 stg-low-orbit.cell.us.nr-data.net
+0.0.0.0 stg-more-coffee.cell.us.nr-data.net
 0.0.0.0 stg-purple-price.wf.cell.nr-data.net
 0.0.0.0 stg-smoking-spare.cell.us.nr-data.net
+0.0.0.0 stg-total-eclipse.cell.us.nr-data.net
+0.0.0.0 storage.beaconimages.netflix.net
 0.0.0.0 store.esellerate.net
 0.0.0.0 stosuj.net
 0.0.0.0 streamesh.net
@@ -683,6 +711,7 @@
 0.0.0.0 www.fusion-racing.net
 0.0.0.0 www.futuristicfondix.net
 0.0.0.0 www.fyvexlabfinai.net
+0.0.0.0 www.gateiolink.net
 0.0.0.0 www.gwcnouiex.net
 0.0.0.0 www.helvetisvector.net
 0.0.0.0 www.helvinova.net
@@ -751,7 +780,9 @@
 0.0.0.0 www.sayfaturk.net
 0.0.0.0 www.schimbvalutarpro.net
 0.0.0.0 www.scottish-scoobies.net
+0.0.0.0 www.secure-canadian-pharmacy.net
 0.0.0.0 www.serrafundivo.net
+0.0.0.0 www.sexei.net
 0.0.0.0 www.sintaxisai.net
 0.0.0.0 www.sirvadulx.net
 0.0.0.0 www.skonhed.net
