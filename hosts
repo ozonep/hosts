@@ -1,7 +1,7 @@
 !Title: 4PDA Community hosts blacklist
-!Last modified: 17 Aug 2026 23:00 UTC
+!Last modified: 21 Aug 2026 23:00 UTC
 !Expires: 1 day
-!Records: 1258
+!Records: 1266
 
 0.0.0.0 02ip.ru
 0.0.0.0 04xmhp.ru
@@ -117,6 +117,7 @@
 0.0.0.0 actionpay.ru
 0.0.0.0 activepr.ru
 0.0.0.0 activespb.ru
+0.0.0.0 ad-cdek.ru
 0.0.0.0 ad.adriver.ru
 0.0.0.0 ad.allboxing.ru
 0.0.0.0 ad.bannerhost.ru
@@ -268,6 +269,7 @@
 0.0.0.0 banners.adfox.ru
 0.0.0.0 banshop.gruntovik.ru
 0.0.0.0 bardatm.ru
+0.0.0.0 basstroi.ru
 0.0.0.0 baza-nomerov.ru
 0.0.0.0 bazr.ru
 0.0.0.0 bbj3nb.ru
@@ -364,6 +366,7 @@
 0.0.0.0 connect.ok.ru
 0.0.0.0 consultant-online.ru
 0.0.0.0 consultsystems.ru
+0.0.0.0 containers.ad-cdek.ru
 0.0.0.0 contema.ru
 0.0.0.0 content.adfox.ru
 0.0.0.0 content.adriver.ru
@@ -416,6 +419,7 @@
 0.0.0.0 data.videonow.ru
 0.0.0.0 datatracking.ru
 0.0.0.0 dcdn.heroeswm.ru
+0.0.0.0 dcyilib.ru
 0.0.0.0 de.vsexshop.ru
 0.0.0.0 deeppquiz.ru
 0.0.0.0 dell-partner.ru
@@ -466,7 +470,6 @@
 0.0.0.0 eventtrace.ru
 0.0.0.0 evt.uchi.ru
 0.0.0.0 exad.smi2.ru
-0.0.0.0 expertsun.ru
 0.0.0.0 eye.agency2.ru
 0.0.0.0 eyenewton.ru
 0.0.0.0 ezstat.ru
@@ -544,7 +547,6 @@
 0.0.0.0 hitcrypt.aan8bq.ru
 0.0.0.0 hitcrypt.g4blin.ru
 0.0.0.0 hitcrypt.lkoi3q.ru
-0.0.0.0 hitcrypt.mb9pzp.ru
 0.0.0.0 hitcrypt.rbcv7s.ru
 0.0.0.0 hitcrypt.udqrh6.ru
 0.0.0.0 hitcrypt.x81p4z.ru
@@ -576,6 +578,7 @@
 0.0.0.0 img.yuga.ru
 0.0.0.0 img0.liveinternet.ru
 0.0.0.0 img01.ad-tech.ru
+0.0.0.0 imgng.gdeslon.ru
 0.0.0.0 imgredirect.ad-tech.ru
 0.0.0.0 imgserve.ad-tech.ru
 0.0.0.0 imgstats.ad-tech.ru
@@ -674,7 +677,6 @@
 0.0.0.0 masterh7.adriver.ru
 0.0.0.0 mastertarget.ru
 0.0.0.0 matchid.adfox.yandex.ru
-0.0.0.0 matomo-tracker.usmall.ru
 0.0.0.0 matomo.datago.ru
 0.0.0.0 maylohack.ru
 0.0.0.0 mb9pzp.ru
@@ -966,11 +968,14 @@
 0.0.0.0 sp.aviasales.ru
 0.0.0.0 sparrow.ru
 0.0.0.0 spartakfanat.ru
+0.0.0.0 specagendcafemsk.ru
 0.0.0.0 sporttouch.radar.imgsmail.ru
+0.0.0.0 srv250626.hoster-test.ru
 0.0.0.0 ssl.adriver.ru
 0.0.0.0 ssp-rtb-eu.sape.ru
 0.0.0.0 ssp-rtb-ru.sape.ru
 0.0.0.0 ssp-rtb.sape.ru
+0.0.0.0 ssp.ad-cdek.ru
 0.0.0.0 ssp.adriver.ru
 0.0.0.0 ssp.rambler.ru
 0.0.0.0 ssp.rutube.ru
@@ -1029,6 +1034,7 @@
 0.0.0.0 svetvip.ru
 0.0.0.0 svk-native.ru
 0.0.0.0 swft.vedomosti.ru
+0.0.0.0 sync.ad-cdek.ru
 0.0.0.0 sync.opendsp.ru
 0.0.0.0 sync.rambler.ru
 0.0.0.0 sync.videonow.ru
@@ -1099,6 +1105,7 @@
 0.0.0.0 ua.adriver.ru
 0.0.0.0 uaas.yandex.ru
 0.0.0.0 udqrh6.ru
+0.0.0.0 ui-api.ad-cdek.ru
 0.0.0.0 ukrashulya.ru
 0.0.0.0 umami.mrmag.ru
 0.0.0.0 unicontext.ru
@@ -1204,6 +1211,7 @@
 0.0.0.0 www.amt-k.ru
 0.0.0.0 www.audi-club.ru
 0.0.0.0 www.avramstroy.ru
+0.0.0.0 www.basstroi.ru
 0.0.0.0 www.betsonsport.ru
 0.0.0.0 www.cityads.ru
 0.0.0.0 www.clck.ru
@@ -1211,7 +1219,6 @@
 0.0.0.0 www.consultant-online.ru
 0.0.0.0 www.directadvert.ru
 0.0.0.0 www.drivenetwork.ru
-0.0.0.0 www.expertsun.ru
 0.0.0.0 www.fb2portal.ru
 0.0.0.0 www.free-gluten.ru
 0.0.0.0 www.gdeslon.ru
@@ -1236,6 +1243,7 @@
 0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.shulepov.ru
 0.0.0.0 www.softout.ru
+0.0.0.0 www.srv250626.hoster-test.ru
 0.0.0.0 www.tinka.ru
 0.0.0.0 www.tns-counter.ru
 0.0.0.0 www.unlockers.ru
