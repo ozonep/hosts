@@ -1,10 +1,11 @@
 !Title: 4PDA Community hosts blacklist
-!Last modified: 21 Aug 2026 23:00 UTC
+!Last modified: 25 Aug 2026 23:00 UTC
 !Expires: 1 day
-!Records: 1266
+!Records: 1259
 
 0.0.0.0 02ip.ru
 0.0.0.0 04xmhp.ru
+0.0.0.0 1009--8ab746b8-a536-47ab-9ed6-6435b6b48fad.stbid.ru
 0.0.0.0 1034--47--cookieid.stbid.ru
 0.0.0.0 1097--incl--adsp.stbid.ru
 0.0.0.0 14735.beacon.alice.yandex.ru
@@ -12,7 +13,7 @@
 0.0.0.0 1cfcee684da84d79a21730432fc15b1f.ops.beeline.ru
 0.0.0.0 1cont.ru
 0.0.0.0 1directory.ru
-0.0.0.0 1happy-blog.ru
+0.0.0.0 1h.vuregyy1.ru
 0.0.0.0 1l-hit.mail.ru
 0.0.0.0 1l-view.mail.ru
 0.0.0.0 1link.mail.ru
@@ -30,6 +31,7 @@
 0.0.0.0 25112.ms.vk.ru
 0.0.0.0 25212.ms.vk.ru
 0.0.0.0 28yw0a.ru
+0.0.0.0 2nosm7.ru
 0.0.0.0 33412.ms.vk.ru
 0.0.0.0 33512.ms.vk.ru
 0.0.0.0 34412.ms.vk.ru
@@ -146,7 +148,7 @@
 0.0.0.0 adregain.ru
 0.0.0.0 adriver.ru
 0.0.0.0 adrun.ru
-0.0.0.0 ads-gdl.imovideo.ru
+0.0.0.0 ads-m.rustore.ru
 0.0.0.0 ads-media.wildberries.ru
 0.0.0.0 ads-storage.avito.ru
 0.0.0.0 ads.adfox.ru
@@ -156,7 +158,6 @@
 0.0.0.0 ads.giftclick.ru
 0.0.0.0 ads.gpm-ssp.ru
 0.0.0.0 ads.ok.ru
-0.0.0.0 ads.okgroups.ru
 0.0.0.0 ads.photosight.ru
 0.0.0.0 ads.rustore.ru
 0.0.0.0 ads.x5media.ru
@@ -218,6 +219,7 @@
 0.0.0.0 antalya.ru
 0.0.0.0 antibot.wildberries.ru
 0.0.0.0 api-an.tutu.ru
+0.0.0.0 api-ui.opendsp.ru
 0.0.0.0 api-x.tutu.ru
 0.0.0.0 api.a.mts.ru
 0.0.0.0 api.admile.ru
@@ -251,6 +253,7 @@
 0.0.0.0 awsync.yandex.ru
 0.0.0.0 b.dotbrataev.ru
 0.0.0.0 b.netall.ru
+0.0.0.0 b.suprion.ru
 0.0.0.0 b13.penzainform.ru
 0.0.0.0 b23.ru
 0.0.0.0 b2bcontext.ru
@@ -274,6 +277,7 @@
 0.0.0.0 bazr.ru
 0.0.0.0 bbj3nb.ru
 0.0.0.0 bdgadv.ru
+0.0.0.0 bedrive.ru
 0.0.0.0 begun.ru
 0.0.0.0 bestveb.ru
 0.0.0.0 beta.mediafort.ru
@@ -335,7 +339,6 @@
 0.0.0.0 chemal-altai.ru
 0.0.0.0 chevy-clan.ru
 0.0.0.0 chiptuner.ru
-0.0.0.0 chrome-windows.ru
 0.0.0.0 cityads.ru
 0.0.0.0 ckct.ru
 0.0.0.0 clck.dzen.ru
@@ -403,7 +406,6 @@
 0.0.0.0 css.yuga.ru
 0.0.0.0 cstatic-ru-cv.weborama-tech.ru
 0.0.0.0 cstatic.weborama-tech.ru
-0.0.0.0 cstor.nn2.ru
 0.0.0.0 ctx.weborama-tech.ru
 0.0.0.0 culturaltracking.ru
 0.0.0.0 cusok.ru
@@ -411,20 +413,17 @@
 0.0.0.0 cybertown.ru
 0.0.0.0 dadata.ru
 0.0.0.0 dadu.ru
-0.0.0.0 daily.heroeswm.ru
 0.0.0.0 darknagar.ru
 0.0.0.0 data.killbot.ru
 0.0.0.0 data.punchmedia.ru
 0.0.0.0 data.skwstat.ru
 0.0.0.0 data.videonow.ru
 0.0.0.0 datatracking.ru
-0.0.0.0 dcdn.heroeswm.ru
 0.0.0.0 dcyilib.ru
 0.0.0.0 de.vsexshop.ru
-0.0.0.0 deeppquiz.ru
 0.0.0.0 dell-partner.ru
 0.0.0.0 delta.mediafort.ru
-0.0.0.0 demo.punchmedia.ru
+0.0.0.0 deltaheavy.ru
 0.0.0.0 dienai.ru
 0.0.0.0 digitaltarget.ru
 0.0.0.0 direct.yandex.ru
@@ -446,7 +445,6 @@
 0.0.0.0 dspgate.ru
 0.0.0.0 duhboga.ru
 0.0.0.0 dx-frontend.weborama-tech.ru
-0.0.0.0 e1.skwstat.ru
 0.0.0.0 easy.au.ru
 0.0.0.0 ece8c2alhz.ru
 0.0.0.0 edirect.efind.ru
@@ -474,7 +472,6 @@
 0.0.0.0 eyenewton.ru
 0.0.0.0 ezstat.ru
 0.0.0.0 f38172564ba14286bb82bf16185a1a28.ops.beeline.ru
-0.0.0.0 fabrikamebelispb.ru
 0.0.0.0 fail-7.ru
 0.0.0.0 fast2load.ru
 0.0.0.0 faststart.ru
@@ -544,6 +541,7 @@
 0.0.0.0 hit.x81p4z.ru
 0.0.0.0 hit.xgd3kl.ru
 0.0.0.0 hitcrypt.04xmhp.ru
+0.0.0.0 hitcrypt.2nosm7.ru
 0.0.0.0 hitcrypt.aan8bq.ru
 0.0.0.0 hitcrypt.g4blin.ru
 0.0.0.0 hitcrypt.lkoi3q.ru
@@ -568,9 +566,7 @@
 0.0.0.0 id.adx.com.ru
 0.0.0.0 id.google.ru
 0.0.0.0 ideibiznesa2015.ru
-0.0.0.0 igry.ru
 0.0.0.0 im-sentry.sportmaster.ru
-0.0.0.0 image.prlog.ru
 0.0.0.0 image.sendsay.ru
 0.0.0.0 images.sparrow.ru
 0.0.0.0 img.gdeslon.ru
@@ -616,7 +612,6 @@
 0.0.0.0 kb.survstat.ru
 0.0.0.0 kickoff.ru
 0.0.0.0 kiks.yandex.ru
-0.0.0.0 kontaktm34.ru
 0.0.0.0 kplusd.far.ru
 0.0.0.0 kraken-mdt.ad-tech.ru
 0.0.0.0 kraken.rambler.ru
@@ -791,6 +786,7 @@
 0.0.0.0 pjkyxrd15e.ru
 0.0.0.0 pkeeper3.ru
 0.0.0.0 pl2.skwstat.ru
+0.0.0.0 planshetu.ru
 0.0.0.0 pokrutim.ru
 0.0.0.0 pool.stbid.ru
 0.0.0.0 posthog.checkscan.ru
@@ -818,7 +814,6 @@
 0.0.0.0 px182.telecid.ru
 0.0.0.0 px460.telecid.ru
 0.0.0.0 pyoumiscentcep.hotelsvr.ru
-0.0.0.0 pypad.ru
 0.0.0.0 q7wiow.ru
 0.0.0.0 qcdnfront.winline.ru
 0.0.0.0 qcdnwsys.winline.ru
@@ -857,7 +852,6 @@
 0.0.0.0 req.pm2.punchmedia.ru
 0.0.0.0 res.tlauncher.ru
 0.0.0.0 rezale.ru
-0.0.0.0 riabir.ru
 0.0.0.0 richmedia.wavesend.ru
 0.0.0.0 rmetrics.ru
 0.0.0.0 rot.rusoul.ru
@@ -888,6 +882,7 @@
 0.0.0.0 sc.grattis.ru
 0.0.0.0 scounter.rambler.ru
 0.0.0.0 scripts.botfaqtor.ru
+0.0.0.0 sdk-api-rf.apptracer.ru
 0.0.0.0 sdk-api.apptracer.ru
 0.0.0.0 searchnews-drru.dt.dbankcloud.ru
 0.0.0.0 secure-ads.yandex.ru
@@ -1015,6 +1010,7 @@
 0.0.0.0 statika.mpsuadv.ru
 0.0.0.0 statistics-bt.wildberries.ru
 0.0.0.0 statistics.fppressa.ru
+0.0.0.0 stats-dg.rustore.ru
 0.0.0.0 stats.avito.ru
 0.0.0.0 stats.gastronom.ru
 0.0.0.0 stats.mos.ru
@@ -1024,7 +1020,7 @@
 0.0.0.0 stavkiprognozy.ru
 0.0.0.0 steam-account.ru
 0.0.0.0 stmtag.ru
-0.0.0.0 stopmp3.ru
+0.0.0.0 storage.agency2.ru
 0.0.0.0 stream.datago.ru
 0.0.0.0 studlance.ru
 0.0.0.0 subscriptions.rambler.ru
@@ -1073,6 +1069,7 @@
 0.0.0.0 top.elec.ru
 0.0.0.0 top.gde.ru
 0.0.0.0 top.mail.ru
+0.0.0.0 top100.ad-tech.ru
 0.0.0.0 top100.rambler.ru
 0.0.0.0 top5.mail.ru
 0.0.0.0 topcpa.ru
@@ -1098,9 +1095,6 @@
 0.0.0.0 tt.ttarget.ru
 0.0.0.0 ttarget.ru
 0.0.0.0 tutad.ru
-0.0.0.0 tv-shows.ru
-0.0.0.0 u.9111s.ru
-0.0.0.0 u2.9111s.ru
 0.0.0.0 ua-content.adriver.ru
 0.0.0.0 ua.adriver.ru
 0.0.0.0 uaas.yandex.ru
@@ -1146,6 +1140,7 @@
 0.0.0.0 vst.sibnet.ru
 0.0.0.0 vzarabotke.ru
 0.0.0.0 w.rulive.ru
+0.0.0.0 w13mk6.ru
 0.0.0.0 waltotoso.hotelsvr.ru
 0.0.0.0 wavesend.ru
 0.0.0.0 wcm.weborama-tech.ru
@@ -1161,7 +1156,6 @@
 0.0.0.0 weborama-tech.ru
 0.0.0.0 webpush-imgproxy.g.mindbox.ru
 0.0.0.0 websurf.ru
-0.0.0.0 wesecrets.ru
 0.0.0.0 wf-ru-frontend.weborama-tech.ru
 0.0.0.0 whatismyipaddress.ru
 0.0.0.0 whiteboxdigital.ru
@@ -1219,7 +1213,6 @@
 0.0.0.0 www.consultant-online.ru
 0.0.0.0 www.directadvert.ru
 0.0.0.0 www.drivenetwork.ru
-0.0.0.0 www.fb2portal.ru
 0.0.0.0 www.free-gluten.ru
 0.0.0.0 www.gdeslon.ru
 0.0.0.0 www.goatse.ru
