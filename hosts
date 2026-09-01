@@ -1,5 +1,5 @@
 !Title: 4PDA Community hosts blacklist
-!Last modified: 25 Aug 2026 23:00 UTC
+!Last modified: 31 Aug 2026 23:00 UTC
 !Expires: 1 day
 !Records: 1259
 
@@ -7,6 +7,8 @@
 0.0.0.0 04xmhp.ru
 0.0.0.0 1009--8ab746b8-a536-47ab-9ed6-6435b6b48fad.stbid.ru
 0.0.0.0 1034--47--cookieid.stbid.ru
+0.0.0.0 1083--vitrina.stbid.ru
+0.0.0.0 1083-vitrina.stbid.ru
 0.0.0.0 1097--incl--adsp.stbid.ru
 0.0.0.0 14735.beacon.alice.yandex.ru
 0.0.0.0 1cd5c3c7d5a445d59c7f73b38cf6da12.ops.beeline.ru
@@ -14,6 +16,7 @@
 0.0.0.0 1cont.ru
 0.0.0.0 1directory.ru
 0.0.0.0 1h.vuregyy1.ru
+0.0.0.0 1h.xeteloi4.ru
 0.0.0.0 1l-hit.mail.ru
 0.0.0.0 1l-view.mail.ru
 0.0.0.0 1link.mail.ru
@@ -221,7 +224,6 @@
 0.0.0.0 api-an.tutu.ru
 0.0.0.0 api-ui.opendsp.ru
 0.0.0.0 api-x.tutu.ru
-0.0.0.0 api.a.mts.ru
 0.0.0.0 api.admile.ru
 0.0.0.0 api.appmetrica.yandex.ru
 0.0.0.0 api.expf.ru
@@ -259,7 +261,6 @@
 0.0.0.0 b2bcontext.ru
 0.0.0.0 back.winline.ru
 0.0.0.0 bakteso.ru
-0.0.0.0 balakovo24.ru
 0.0.0.0 balam.paradocs.ru
 0.0.0.0 ban.zab.ru
 0.0.0.0 bank.yuga.ru
@@ -320,7 +321,6 @@
 0.0.0.0 cdn.botfaqtor.ru
 0.0.0.0 cdn.callibri.ru
 0.0.0.0 cdn.catsnetwork.ru
-0.0.0.0 cdn.directadvert.ru
 0.0.0.0 cdn.dsp-rambler.ru
 0.0.0.0 cdn.dsp.onetarget.ru
 0.0.0.0 cdn.gpmdata.ru
@@ -337,7 +337,6 @@
 0.0.0.0 checker.cityads.ru
 0.0.0.0 checks.botfaqtor.ru
 0.0.0.0 chemal-altai.ru
-0.0.0.0 chevy-clan.ru
 0.0.0.0 chiptuner.ru
 0.0.0.0 cityads.ru
 0.0.0.0 ckct.ru
@@ -354,7 +353,6 @@
 0.0.0.0 clients.streamwood.ru
 0.0.0.0 cloud.radar.imgsmail.ru
 0.0.0.0 cls.ad-tech.ru
-0.0.0.0 cm.a.mts.ru
 0.0.0.0 cm.p.altergeo.ru
 0.0.0.0 cm.tns-counter.ru
 0.0.0.0 cnb.cnews.ru
@@ -418,12 +416,14 @@
 0.0.0.0 data.punchmedia.ru
 0.0.0.0 data.skwstat.ru
 0.0.0.0 data.videonow.ru
+0.0.0.0 data.winline.ru
 0.0.0.0 datatracking.ru
 0.0.0.0 dcyilib.ru
 0.0.0.0 de.vsexshop.ru
 0.0.0.0 dell-partner.ru
 0.0.0.0 delta.mediafort.ru
 0.0.0.0 deltaheavy.ru
+0.0.0.0 deosyae.ru
 0.0.0.0 dienai.ru
 0.0.0.0 digitaltarget.ru
 0.0.0.0 direct.yandex.ru
@@ -487,7 +487,7 @@
 0.0.0.0 flotprom.ru
 0.0.0.0 flyroll.ru
 0.0.0.0 fmon.citilink.ru
-0.0.0.0 forum.chevy-clan.ru
+0.0.0.0 foliums.ru
 0.0.0.0 forum.linkfeed.ru
 0.0.0.0 free-gluten.ru
 0.0.0.0 frontlog.tutu.ru
@@ -514,6 +514,7 @@
 0.0.0.0 gjv7fg.ru
 0.0.0.0 gk7qlc.ru
 0.0.0.0 gnezdo.ru
+0.0.0.0 go.leadgid.ru
 0.0.0.0 goodcustomers.ru
 0.0.0.0 goon.ru
 0.0.0.0 gorodvlesu.ru
@@ -621,7 +622,6 @@
 0.0.0.0 kz.tns-counter.ru
 0.0.0.0 l.utorria.ru
 0.0.0.0 l2top.ru
-0.0.0.0 lacdileftre.ru
 0.0.0.0 ladycash.ru
 0.0.0.0 laimroll.ru
 0.0.0.0 lc2ads.ru
@@ -751,6 +751,7 @@
 0.0.0.0 ogtz5yn2u1.ru
 0.0.0.0 omniqa.ru
 0.0.0.0 on-dirty.ru
+0.0.0.0 on-office.ru
 0.0.0.0 onetarget.ru
 0.0.0.0 onfeed.ru
 0.0.0.0 opendsp.ru
@@ -1133,7 +1134,6 @@
 0.0.0.0 vihub.ru
 0.0.0.0 vipko.ru
 0.0.0.0 vmkxcsss.ru
-0.0.0.0 vnikitskom.ru
 0.0.0.0 vp.rambler.ru
 0.0.0.0 vseobuch.ru
 0.0.0.0 vsexshop.ru
@@ -1160,6 +1160,7 @@
 0.0.0.0 whatismyipaddress.ru
 0.0.0.0 whiteboxdigital.ru
 0.0.0.0 whiteline.mail.ru
+0.0.0.0 wholesale-soccer-jerseys168.ru
 0.0.0.0 widget.adplay.ru
 0.0.0.0 widget.cleversite.ru
 0.0.0.0 widget.info-static.ru
@@ -1170,6 +1171,7 @@
 0.0.0.0 widgets.livetex.ru
 0.0.0.0 widgets.planeta.ru
 0.0.0.0 widster.ru
+0.0.0.0 wildtracker.wb.ru
 0.0.0.0 winline.ru
 0.0.0.0 winlinebet.ru
 0.0.0.0 wmcasher.ru
@@ -1258,7 +1260,5 @@
 0.0.0.0 yast.rutube.ru
 0.0.0.0 yuga.ru
 0.0.0.0 zachestnyibiznes.ru
-0.0.0.0 zags.kurganobl.ru
 0.0.0.0 zalive-akvilon.ru
 0.0.0.0 zen-mobile-site.mediascope.mc.yandex.ru
-0.0.0.0 znate.ru
