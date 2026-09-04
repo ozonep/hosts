@@ -1,7 +1,7 @@
 !Title: 4PDA Community hosts blacklist
-!Last modified: 31 Aug 2026 23:00 UTC
+!Last modified: 03 Sep 2026 23:00 UTC
 !Expires: 1 day
-!Records: 1259
+!Records: 1256
 
 0.0.0.0 02ip.ru
 0.0.0.0 04xmhp.ru
@@ -85,6 +85,7 @@
 0.0.0.0 6rn05mmbct.ru
 0.0.0.0 777-club.ru
 0.0.0.0 7nkbwdf1uq.ru
+0.0.0.0 81640.mstat.mos.ru
 0.0.0.0 8si.ru
 0.0.0.0 931131.log.rutube.ru
 0.0.0.0 931221.log.rutube.ru
@@ -190,7 +191,6 @@
 0.0.0.0 adzone.innovation-lab.ru
 0.0.0.0 aemetrics.aliexpress.ru
 0.0.0.0 af.click.ru
-0.0.0.0 aflink.ru
 0.0.0.0 aflt.market.yandex.ru
 0.0.0.0 agency2.ru
 0.0.0.0 ai.technocore.ru
@@ -222,6 +222,7 @@
 0.0.0.0 antalya.ru
 0.0.0.0 antibot.wildberries.ru
 0.0.0.0 api-an.tutu.ru
+0.0.0.0 api-metric.gosweb.gosuslugi.ru
 0.0.0.0 api-ui.opendsp.ru
 0.0.0.0 api-x.tutu.ru
 0.0.0.0 api.admile.ru
@@ -317,6 +318,7 @@
 0.0.0.0 cdn.adplay.ru
 0.0.0.0 cdn.adtec.ru
 0.0.0.0 cdn.adv-adplatform.ru
+0.0.0.0 cdn.advideo.ru
 0.0.0.0 cdn.bazr.ru
 0.0.0.0 cdn.botfaqtor.ru
 0.0.0.0 cdn.callibri.ru
@@ -352,7 +354,6 @@
 0.0.0.0 client-telemetry.tutu.ru
 0.0.0.0 clients.streamwood.ru
 0.0.0.0 cloud.radar.imgsmail.ru
-0.0.0.0 cls.ad-tech.ru
 0.0.0.0 cm.p.altergeo.ru
 0.0.0.0 cm.tns-counter.ru
 0.0.0.0 cnb.cnews.ru
@@ -394,6 +395,7 @@
 0.0.0.0 cpa.hh.ru
 0.0.0.0 cprojects.radar.imgsmail.ru
 0.0.0.0 cr-frontend.weborama-tech.ru
+0.0.0.0 crypto-prom.ru
 0.0.0.0 crystalpvp.ru
 0.0.0.0 cs.ad-tech.ru
 0.0.0.0 cs.agency2.ru
@@ -484,6 +486,7 @@
 0.0.0.0 ff.astv.ru
 0.0.0.0 filmplus.ru
 0.0.0.0 fin-banners-bt.wildberries.ru
+0.0.0.0 fint-bux.ru
 0.0.0.0 flotprom.ru
 0.0.0.0 flyroll.ru
 0.0.0.0 fmon.citilink.ru
@@ -533,22 +536,18 @@
 0.0.0.0 hit.28yw0a.ru
 0.0.0.0 hit.aan8bq.ru
 0.0.0.0 hit.bbj3nb.ru
-0.0.0.0 hit.g4blin.ru
 0.0.0.0 hit.mb9pzp.ru
 0.0.0.0 hit.q7wiow.ru
 0.0.0.0 hit.rbcv7s.ru
 0.0.0.0 hit.tj4rxr.ru
 0.0.0.0 hit.udqrh6.ru
-0.0.0.0 hit.x81p4z.ru
 0.0.0.0 hit.xgd3kl.ru
 0.0.0.0 hitcrypt.04xmhp.ru
 0.0.0.0 hitcrypt.2nosm7.ru
 0.0.0.0 hitcrypt.aan8bq.ru
-0.0.0.0 hitcrypt.g4blin.ru
 0.0.0.0 hitcrypt.lkoi3q.ru
 0.0.0.0 hitcrypt.rbcv7s.ru
 0.0.0.0 hitcrypt.udqrh6.ru
-0.0.0.0 hitcrypt.x81p4z.ru
 0.0.0.0 hitcrypt.xe1teq.ru
 0.0.0.0 hitcrypt.xgd3kl.ru
 0.0.0.0 hitlist.ru
@@ -622,7 +621,6 @@
 0.0.0.0 kz.tns-counter.ru
 0.0.0.0 l.utorria.ru
 0.0.0.0 l2top.ru
-0.0.0.0 ladycash.ru
 0.0.0.0 laimroll.ru
 0.0.0.0 lc2ads.ru
 0.0.0.0 ldoe-analytics.kefirgames.ru
@@ -652,7 +650,6 @@
 0.0.0.0 logservice-drru.dt.dbankcloud.ru
 0.0.0.0 loki.maximonline.ru
 0.0.0.0 loyalty-sentry.dixy.ru
-0.0.0.0 lp.mobiletracking.ru
 0.0.0.0 m-api.a.mts.ru
 0.0.0.0 m-cm.a.mts.ru
 0.0.0.0 m.leboard.ru
@@ -662,7 +659,6 @@
 0.0.0.0 magna.ru
 0.0.0.0 mail.ioc.ac.ru
 0.0.0.0 mail.radar.imgsmail.ru
-0.0.0.0 mainpool.ru
 0.0.0.0 man-live.ru
 0.0.0.0 mapp.winline.ru
 0.0.0.0 market-baobab.yandex.ru
@@ -776,6 +772,7 @@
 0.0.0.0 personalization-web.g.mindbox.ru
 0.0.0.0 piper.amocrm.ru
 0.0.0.0 pitomnikgamaun.ru
+0.0.0.0 pixel-frontend.avito.ru
 0.0.0.0 pixel.adlooxtracking.ru
 0.0.0.0 pixel.dsp.onetarget.ru
 0.0.0.0 pixel.getads.ru
@@ -860,6 +857,7 @@
 0.0.0.0 rr.tracker.mobiletracking.ru
 0.0.0.0 rs.mail.ru
 0.0.0.0 rtb-bm1.videonow.ru
+0.0.0.0 rtb.ad-cdek.ru
 0.0.0.0 rtb.admile.ru
 0.0.0.0 rtb.adplay.ru
 0.0.0.0 rtb.opendsp.ru
@@ -1177,7 +1175,6 @@
 0.0.0.0 wmcasher.ru
 0.0.0.0 wolist.ru
 0.0.0.0 wordstat.yandex.ru
-0.0.0.0 work5.ru
 0.0.0.0 workspay.ru
 0.0.0.0 wowlink.ru
 0.0.0.0 wp20.ru
