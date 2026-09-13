@@ -1,22 +1,21 @@
 !Title: 4PDA Community hosts blacklist
-!Last modified: 03 Sep 2026 23:00 UTC
+!Last modified: 12 Sep 2026 23:00 UTC
 !Expires: 1 day
-!Records: 1256
+!Records: 1222
 
 0.0.0.0 02ip.ru
 0.0.0.0 04xmhp.ru
 0.0.0.0 1009--8ab746b8-a536-47ab-9ed6-6435b6b48fad.stbid.ru
+0.0.0.0 101flag.ru
 0.0.0.0 1034--47--cookieid.stbid.ru
 0.0.0.0 1083--vitrina.stbid.ru
 0.0.0.0 1083-vitrina.stbid.ru
 0.0.0.0 1097--incl--adsp.stbid.ru
 0.0.0.0 14735.beacon.alice.yandex.ru
 0.0.0.0 1cd5c3c7d5a445d59c7f73b38cf6da12.ops.beeline.ru
-0.0.0.0 1cfcee684da84d79a21730432fc15b1f.ops.beeline.ru
 0.0.0.0 1cont.ru
 0.0.0.0 1directory.ru
 0.0.0.0 1h.vuregyy1.ru
-0.0.0.0 1h.xeteloi4.ru
 0.0.0.0 1l-hit.mail.ru
 0.0.0.0 1l-view.mail.ru
 0.0.0.0 1link.mail.ru
@@ -41,12 +40,10 @@
 0.0.0.0 34512.ms.vk.ru
 0.0.0.0 35412.ms.vk.ru
 0.0.0.0 35512.ms.vk.ru
-0.0.0.0 423.ru
 0.0.0.0 45950.wavesend.ru
 0.0.0.0 48778.wavesend.ru
 0.0.0.0 4hunqp.ru
 0.0.0.0 4px.ru
-0.0.0.0 5-182-5-41.botfaqtor.ru
 0.0.0.0 531111.ms.dzen.ru
 0.0.0.0 531121.ms.dzen.ru
 0.0.0.0 531211.ms.dzen.ru
@@ -113,6 +110,7 @@
 0.0.0.0 a.winline.ru
 0.0.0.0 a0.smi2.ru
 0.0.0.0 a1.smi2.ru
+0.0.0.0 a24help.ru
 0.0.0.0 a3.smi2.ru
 0.0.0.0 a4.smi2.ru
 0.0.0.0 a6.smi2.ru
@@ -121,11 +119,8 @@
 0.0.0.0 abs.firstvds.ru
 0.0.0.0 acollector.wb.ru
 0.0.0.0 actionpay.ru
-0.0.0.0 activepr.ru
 0.0.0.0 activespb.ru
-0.0.0.0 ad-cdek.ru
 0.0.0.0 ad.adriver.ru
-0.0.0.0 ad.allboxing.ru
 0.0.0.0 ad.bannerhost.ru
 0.0.0.0 ad.betcity.ru
 0.0.0.0 ad.hutor.ru
@@ -152,7 +147,6 @@
 0.0.0.0 adregain.ru
 0.0.0.0 adriver.ru
 0.0.0.0 adrun.ru
-0.0.0.0 ads-m.rustore.ru
 0.0.0.0 ads-media.wildberries.ru
 0.0.0.0 ads-storage.avito.ru
 0.0.0.0 ads.adfox.ru
@@ -216,7 +210,6 @@
 0.0.0.0 analytics.move.ru
 0.0.0.0 analytics.sberhealth.ru
 0.0.0.0 analytics.sutochno.ru
-0.0.0.0 analytics.tele2.ru
 0.0.0.0 anekbook.ru
 0.0.0.0 animesvosts.ru
 0.0.0.0 antalya.ru
@@ -230,7 +223,6 @@
 0.0.0.0 api.expf.ru
 0.0.0.0 api.lbs.yandex.ru
 0.0.0.0 api.s.mindbox.ru
-0.0.0.0 api.skyyads.ru
 0.0.0.0 api.utorria.ru
 0.0.0.0 api.venyoo.ru
 0.0.0.0 api.wavesend.ru
@@ -256,7 +248,6 @@
 0.0.0.0 awsync.yandex.ru
 0.0.0.0 b.dotbrataev.ru
 0.0.0.0 b.netall.ru
-0.0.0.0 b.suprion.ru
 0.0.0.0 b13.penzainform.ru
 0.0.0.0 b23.ru
 0.0.0.0 b2bcontext.ru
@@ -292,7 +283,6 @@
 0.0.0.0 bonuscake.ru
 0.0.0.0 borzjournal.ru
 0.0.0.0 botfaqtor.ru
-0.0.0.0 bs-dante.ru
 0.0.0.0 bs-meta.yandex.ru
 0.0.0.0 bs-metadsp.yandex.ru
 0.0.0.0 bs.orsk.ru
@@ -327,6 +317,7 @@
 0.0.0.0 cdn.dsp.onetarget.ru
 0.0.0.0 cdn.gpmdata.ru
 0.0.0.0 cdn.leadback.ru
+0.0.0.0 cdn.mediatoday.ru
 0.0.0.0 cdn.nashindex.ru
 0.0.0.0 cdn.otclick-adv.ru
 0.0.0.0 cdn.punchmedia.ru
@@ -389,7 +380,6 @@
 0.0.0.0 counter.yadro.ru
 0.0.0.0 counter.yandex.ru
 0.0.0.0 counters.adriver.ru
-0.0.0.0 covid-19.wp20.ru
 0.0.0.0 cp.onicon.ru
 0.0.0.0 cpa-elements.rambler.ru
 0.0.0.0 cpa.hh.ru
@@ -406,7 +396,6 @@
 0.0.0.0 css.yuga.ru
 0.0.0.0 cstatic-ru-cv.weborama-tech.ru
 0.0.0.0 cstatic.weborama-tech.ru
-0.0.0.0 ctx.weborama-tech.ru
 0.0.0.0 culturaltracking.ru
 0.0.0.0 cusok.ru
 0.0.0.0 cvt1.sibnet.ru
@@ -420,17 +409,16 @@
 0.0.0.0 data.videonow.ru
 0.0.0.0 data.winline.ru
 0.0.0.0 datatracking.ru
-0.0.0.0 dcyilib.ru
 0.0.0.0 de.vsexshop.ru
 0.0.0.0 dell-partner.ru
 0.0.0.0 delta.mediafort.ru
-0.0.0.0 deltaheavy.ru
-0.0.0.0 deosyae.ru
+0.0.0.0 didns.ru
 0.0.0.0 dienai.ru
 0.0.0.0 digitaltarget.ru
 0.0.0.0 direct.yandex.ru
 0.0.0.0 directadvert.ru
 0.0.0.0 dl.metabar.ru
+0.0.0.0 dmg.digitaltarget.ru
 0.0.0.0 dmp-profiles.sbermarketing.ru
 0.0.0.0 dmp.mpsuadv.ru
 0.0.0.0 dmp.sbermarketing.ru
@@ -491,7 +479,6 @@
 0.0.0.0 flyroll.ru
 0.0.0.0 fmon.citilink.ru
 0.0.0.0 foliums.ru
-0.0.0.0 forum.linkfeed.ru
 0.0.0.0 free-gluten.ru
 0.0.0.0 frontlog.tutu.ru
 0.0.0.0 frontmetrics.tutu.ru
@@ -552,10 +539,8 @@
 0.0.0.0 hitcrypt.xgd3kl.ru
 0.0.0.0 hitlist.ru
 0.0.0.0 hitman-pro.ru
-0.0.0.0 holm.ru
 0.0.0.0 homework.ru
-0.0.0.0 host.ru
-0.0.0.0 hosting-maga.ru
+0.0.0.0 hot-guys.ru
 0.0.0.0 hothat.ru
 0.0.0.0 ht-systems.ru
 0.0.0.0 http-check-headers.yandex.ru
@@ -579,7 +564,6 @@
 0.0.0.0 imgserve.ad-tech.ru
 0.0.0.0 imgstats.ad-tech.ru
 0.0.0.0 indetiske.ya.ru
-0.0.0.0 inetlog.ru
 0.0.0.0 info.kinoclub77.ru
 0.0.0.0 informer.yandex.ru
 0.0.0.0 init.videonow.ru
@@ -600,6 +584,7 @@
 0.0.0.0 j.uralweb.ru
 0.0.0.0 jitsu.www1.ru
 0.0.0.0 job-info.ru
+0.0.0.0 jordan.qunis.ru
 0.0.0.0 journal-bt.wildberries.ru
 0.0.0.0 jps.ru
 0.0.0.0 js.advideo.ru
@@ -610,10 +595,9 @@
 0.0.0.0 kamint.ru
 0.0.0.0 kavanga.ru
 0.0.0.0 kb.survstat.ru
-0.0.0.0 kickoff.ru
 0.0.0.0 kiks.yandex.ru
+0.0.0.0 kontrolnaya-rabota.ru
 0.0.0.0 kplusd.far.ru
-0.0.0.0 kraken-mdt.ad-tech.ru
 0.0.0.0 kraken.rambler.ru
 0.0.0.0 kremz.ru
 0.0.0.0 kupit-ajfon-cs1.ru
@@ -631,13 +615,11 @@
 0.0.0.0 lenta.2xclick.ru
 0.0.0.0 lenta.sparrow.ru
 0.0.0.0 lenta.svk-native.ru
-0.0.0.0 leramabuf.noviikanat.ru
 0.0.0.0 lib.usedesk.ru
 0.0.0.0 likemore-go.imgsmail.ru
 0.0.0.0 linkfeed.ru
 0.0.0.0 linkslot.ru
 0.0.0.0 livechat.winline.ru
-0.0.0.0 liveruscams.ru
 0.0.0.0 livesurf.ru
 0.0.0.0 lkoi3q.ru
 0.0.0.0 log.api-maps.yandex.ru
@@ -663,6 +645,7 @@
 0.0.0.0 mapp.winline.ru
 0.0.0.0 market-baobab.yandex.ru
 0.0.0.0 market-click-baobab.yandex.ru
+0.0.0.0 market-click2.yandex.ru
 0.0.0.0 marketplace-sentry.wb.ru
 0.0.0.0 masterh5.adriver.ru
 0.0.0.0 masterh7.adriver.ru
@@ -680,6 +663,7 @@
 0.0.0.0 media-talk.ru
 0.0.0.0 mediametrics.ru
 0.0.0.0 mediatoday.ru
+0.0.0.0 metrica.yandex.ru
 0.0.0.0 metrics-drru.dt.dbankcloud.ru
 0.0.0.0 metrics.aviasales.ru
 0.0.0.0 metrics.obs.mts.ru
@@ -723,7 +707,6 @@
 0.0.0.0 mytop.live.vkvideo.ru
 0.0.0.0 n8ndjalil.ru
 0.0.0.0 nashindex.ru
-0.0.0.0 nasimke.ru
 0.0.0.0 nel.wb.ru
 0.0.0.0 neobasnet.timeout.ru
 0.0.0.0 neosap.ru
@@ -746,8 +729,6 @@
 0.0.0.0 ogeri.ru
 0.0.0.0 ogtz5yn2u1.ru
 0.0.0.0 omniqa.ru
-0.0.0.0 on-dirty.ru
-0.0.0.0 on-office.ru
 0.0.0.0 onetarget.ru
 0.0.0.0 onfeed.ru
 0.0.0.0 opendsp.ru
@@ -796,6 +777,7 @@
 0.0.0.0 prlog.ru
 0.0.0.0 prodmp.ru
 0.0.0.0 profile.ad-tech.ru
+0.0.0.0 profit-partner.ru
 0.0.0.0 programmatic.ru
 0.0.0.0 promit.ru
 0.0.0.0 promo-reklama.ru
@@ -805,12 +787,7 @@
 0.0.0.0 ps.punchmedia.ru
 0.0.0.0 ps2.punchmedia.ru
 0.0.0.0 ptichka.ru
-0.0.0.0 pu.softlot.ru
 0.0.0.0 punchmedia.ru
-0.0.0.0 px151.telecid.ru
-0.0.0.0 px162.telecid.ru
-0.0.0.0 px182.telecid.ru
-0.0.0.0 px460.telecid.ru
 0.0.0.0 pyoumiscentcep.hotelsvr.ru
 0.0.0.0 q7wiow.ru
 0.0.0.0 qcdnfront.winline.ru
@@ -819,7 +796,6 @@
 0.0.0.0 qoopler.ru
 0.0.0.0 quizgo-widget.ru
 0.0.0.0 quotiq.ru
-0.0.0.0 r0.mail.ru
 0.0.0.0 r1.kill-bot.ru
 0.0.0.0 r3.mail.ru
 0.0.0.0 r3.nl.kill-bot.ru
@@ -851,8 +827,8 @@
 0.0.0.0 res.tlauncher.ru
 0.0.0.0 rezale.ru
 0.0.0.0 richmedia.wavesend.ru
+0.0.0.0 rmbn.ru
 0.0.0.0 rmetrics.ru
-0.0.0.0 rot.rusoul.ru
 0.0.0.0 rq.adfox.ru
 0.0.0.0 rr.tracker.mobiletracking.ru
 0.0.0.0 rs.mail.ru
@@ -874,6 +850,7 @@
 0.0.0.0 rumstat-01.cdnvideo.ru
 0.0.0.0 rumstat.cdnvideo.ru
 0.0.0.0 rustrackers.ru
+0.0.0.0 rutarget.ru
 0.0.0.0 s1.intimshop.ru
 0.0.0.0 sage-collector.tbank.ru
 0.0.0.0 sape.ru
@@ -881,12 +858,12 @@
 0.0.0.0 sc.grattis.ru
 0.0.0.0 scounter.rambler.ru
 0.0.0.0 scripts.botfaqtor.ru
-0.0.0.0 sdk-api-rf.apptracer.ru
 0.0.0.0 sdk-api.apptracer.ru
 0.0.0.0 searchnews-drru.dt.dbankcloud.ru
 0.0.0.0 secure-ads.yandex.ru
 0.0.0.0 selec1.adriver.ru
 0.0.0.0 sentry-api.sberdevices.ru
+0.0.0.0 sentry-devtools.qsrapp.ru
 0.0.0.0 sentry-mobile.avito.ru
 0.0.0.0 sentry-mobile.ivi.ru
 0.0.0.0 sentry-mobile.lamoda.ru
@@ -905,7 +882,6 @@
 0.0.0.0 sentry.megapteka.ru
 0.0.0.0 sentry.mm.ru
 0.0.0.0 sentry.mos.ru
-0.0.0.0 sentry.ozon.ru
 0.0.0.0 sentry.p.ecnl.ru
 0.0.0.0 sentry.poryadok.ru
 0.0.0.0 sentry.sravni-team.ru
@@ -934,7 +910,6 @@
 0.0.0.0 shop.solartek.ru
 0.0.0.0 show.openssp.ru
 0.0.0.0 shulepov.ru
-0.0.0.0 sib2.adriver.ru
 0.0.0.0 sibtel.adriver.ru
 0.0.0.0 sir-fermer.ru
 0.0.0.0 sjsmartcontent.ru
@@ -948,7 +923,6 @@
 0.0.0.0 sobolev.net.ru
 0.0.0.0 sobory.ru
 0.0.0.0 socgate.ru
-0.0.0.0 sochibeer.ru
 0.0.0.0 socialsend.ru
 0.0.0.0 softboard.ru
 0.0.0.0 softout.ru
@@ -962,9 +936,7 @@
 0.0.0.0 sp.aviasales.ru
 0.0.0.0 sparrow.ru
 0.0.0.0 spartakfanat.ru
-0.0.0.0 specagendcafemsk.ru
 0.0.0.0 sporttouch.radar.imgsmail.ru
-0.0.0.0 srv250626.hoster-test.ru
 0.0.0.0 ssl.adriver.ru
 0.0.0.0 ssp-rtb-eu.sape.ru
 0.0.0.0 ssp-rtb-ru.sape.ru
@@ -1009,7 +981,6 @@
 0.0.0.0 statika.mpsuadv.ru
 0.0.0.0 statistics-bt.wildberries.ru
 0.0.0.0 statistics.fppressa.ru
-0.0.0.0 stats-dg.rustore.ru
 0.0.0.0 stats.avito.ru
 0.0.0.0 stats.gastronom.ru
 0.0.0.0 stats.mos.ru
@@ -1023,7 +994,6 @@
 0.0.0.0 stream.datago.ru
 0.0.0.0 studlance.ru
 0.0.0.0 subscriptions.rambler.ru
-0.0.0.0 superstyle.ru
 0.0.0.0 supertop.ru
 0.0.0.0 sur.gorodkirov.ru
 0.0.0.0 svetvip.ru
@@ -1050,6 +1020,7 @@
 0.0.0.0 tech.rtb.mts.ru
 0.0.0.0 tehno-politen.ru
 0.0.0.0 telderi.ru
+0.0.0.0 teleabonent.ru
 0.0.0.0 telemetry.detmir.ru
 0.0.0.0 telemetry.domclick.ru
 0.0.0.0 telemetry.dzen.ru
@@ -1057,6 +1028,7 @@
 0.0.0.0 telemetry.raiffeisen.ru
 0.0.0.0 test.gutir.ru
 0.0.0.0 test.rutube.ru
+0.0.0.0 testingmetriksbre.ru
 0.0.0.0 tgel2ebtx.ru
 0.0.0.0 tinhapalge.hotelsvr.ru
 0.0.0.0 tj4rxr.ru
@@ -1068,7 +1040,6 @@
 0.0.0.0 top.elec.ru
 0.0.0.0 top.gde.ru
 0.0.0.0 top.mail.ru
-0.0.0.0 top100.ad-tech.ru
 0.0.0.0 top100.rambler.ru
 0.0.0.0 top5.mail.ru
 0.0.0.0 topcpa.ru
@@ -1100,7 +1071,6 @@
 0.0.0.0 udqrh6.ru
 0.0.0.0 ui-api.ad-cdek.ru
 0.0.0.0 ukrashulya.ru
-0.0.0.0 umami.mrmag.ru
 0.0.0.0 unicontext.ru
 0.0.0.0 unisound.cdnvideo.ru
 0.0.0.0 unlockers.ru
@@ -1123,8 +1093,8 @@
 0.0.0.0 vi.adplay.ru
 0.0.0.0 vi2.adplay.ru
 0.0.0.0 vi3.adplay.ru
+0.0.0.0 viboom.ru
 0.0.0.0 victorycorp.ru
-0.0.0.0 vid.topoads.ru
 0.0.0.0 video.videonow.ru
 0.0.0.0 videofan.ru
 0.0.0.0 videonow.ru
@@ -1150,16 +1120,13 @@
 0.0.0.0 web-static.s.mindbox.ru
 0.0.0.0 web.redhelper.ru
 0.0.0.0 webim2.ru
-0.0.0.0 webkurchatov.ru
 0.0.0.0 weborama-tech.ru
 0.0.0.0 webpush-imgproxy.g.mindbox.ru
 0.0.0.0 websurf.ru
 0.0.0.0 wf-ru-frontend.weborama-tech.ru
-0.0.0.0 whatismyipaddress.ru
 0.0.0.0 whiteboxdigital.ru
 0.0.0.0 whiteline.mail.ru
 0.0.0.0 wholesale-soccer-jerseys168.ru
-0.0.0.0 widget.adplay.ru
 0.0.0.0 widget.cleversite.ru
 0.0.0.0 widget.info-static.ru
 0.0.0.0 widget.kassa.rambler.ru
@@ -1224,7 +1191,6 @@
 0.0.0.0 www.jps.ru
 0.0.0.0 www.justclick.ru
 0.0.0.0 www.kontrolnaya-rabota.ru
-0.0.0.0 www.mastertarget.ru
 0.0.0.0 www.mc.yandex.ru
 0.0.0.0 www.mir-stalkera.ru
 0.0.0.0 www.otclick-adv.ru
@@ -1235,9 +1201,9 @@
 0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.shulepov.ru
 0.0.0.0 www.softout.ru
-0.0.0.0 www.srv250626.hoster-test.ru
 0.0.0.0 www.tinka.ru
 0.0.0.0 www.tns-counter.ru
+0.0.0.0 www.toptracker.ru
 0.0.0.0 www.unlockers.ru
 0.0.0.0 www.videonow.ru
 0.0.0.0 www.wordstat.yandex.ru
