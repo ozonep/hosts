@@ -1,5 +1,5 @@
 !Title: 4PDA Community hosts blacklist
-!Last modified: 12 Sep 2026 23:00 UTC
+!Last modified: 17 Sep 2026 23:00 UTC
 !Expires: 1 day
 !Records: 1222
 
@@ -15,7 +15,6 @@
 0.0.0.0 1cd5c3c7d5a445d59c7f73b38cf6da12.ops.beeline.ru
 0.0.0.0 1cont.ru
 0.0.0.0 1directory.ru
-0.0.0.0 1h.vuregyy1.ru
 0.0.0.0 1l-hit.mail.ru
 0.0.0.0 1l-view.mail.ru
 0.0.0.0 1link.mail.ru
@@ -520,6 +519,7 @@
 0.0.0.0 heroeswm.ru
 0.0.0.0 hhcdn.ru
 0.0.0.0 hisearch-drru.dt.dbankcloud.ru
+0.0.0.0 history-dress.ru
 0.0.0.0 hit.28yw0a.ru
 0.0.0.0 hit.aan8bq.ru
 0.0.0.0 hit.bbj3nb.ru
@@ -1020,7 +1020,6 @@
 0.0.0.0 tech.rtb.mts.ru
 0.0.0.0 tehno-politen.ru
 0.0.0.0 telderi.ru
-0.0.0.0 teleabonent.ru
 0.0.0.0 telemetry.detmir.ru
 0.0.0.0 telemetry.domclick.ru
 0.0.0.0 telemetry.dzen.ru
@@ -1184,6 +1183,7 @@
 0.0.0.0 www.goatse.ru
 0.0.0.0 www.greatgrace.ru
 0.0.0.0 www.h21.ru
+0.0.0.0 www.history-dress.ru
 0.0.0.0 www.holm.ru
 0.0.0.0 www.homework.ru
 0.0.0.0 www.intimshop.ru
