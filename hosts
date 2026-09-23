@@ -1,5 +1,5 @@
 !Title: 4PDA Community hosts blacklist
-!Last modified: 17 Sep 2026 23:00 UTC
+!Last modified: 21 Sep 2026 23:00 UTC
 !Expires: 1 day
 !Records: 1222
 
@@ -264,7 +264,6 @@
 0.0.0.0 banners.adfox.ru
 0.0.0.0 banshop.gruntovik.ru
 0.0.0.0 bardatm.ru
-0.0.0.0 basstroi.ru
 0.0.0.0 baza-nomerov.ru
 0.0.0.0 bazr.ru
 0.0.0.0 bbj3nb.ru
@@ -651,6 +650,7 @@
 0.0.0.0 masterh7.adriver.ru
 0.0.0.0 mastertarget.ru
 0.0.0.0 matchid.adfox.yandex.ru
+0.0.0.0 matologistics.ru
 0.0.0.0 matomo.datago.ru
 0.0.0.0 maylohack.ru
 0.0.0.0 mb9pzp.ru
@@ -1170,7 +1170,6 @@
 0.0.0.0 www.amt-k.ru
 0.0.0.0 www.audi-club.ru
 0.0.0.0 www.avramstroy.ru
-0.0.0.0 www.basstroi.ru
 0.0.0.0 www.betsonsport.ru
 0.0.0.0 www.cityads.ru
 0.0.0.0 www.clck.ru
@@ -1191,6 +1190,7 @@
 0.0.0.0 www.jps.ru
 0.0.0.0 www.justclick.ru
 0.0.0.0 www.kontrolnaya-rabota.ru
+0.0.0.0 www.matologistics.ru
 0.0.0.0 www.mc.yandex.ru
 0.0.0.0 www.mir-stalkera.ru
 0.0.0.0 www.otclick-adv.ru
