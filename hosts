@@ -1,7 +1,7 @@
 !Title: 4PDA Community hosts blacklist
-!Last modified: 29 Sep 2026 23:00 UTC
+!Last modified: 04 Oct 2026 23:00 UTC
 !Expires: 1 day
-!Records: 1222
+!Records: 1226
 
 0.0.0.0 02ip.ru
 0.0.0.0 04xmhp.ru
@@ -255,6 +255,7 @@
 0.0.0.0 balam.paradocs.ru
 0.0.0.0 ban.zab.ru
 0.0.0.0 bank.yuga.ru
+0.0.0.0 bankcat.ru
 0.0.0.0 bankocc.ru
 0.0.0.0 banner.aismo.ru
 0.0.0.0 banner.consultant.ru
@@ -996,6 +997,7 @@
 0.0.0.0 subscriptions.rambler.ru
 0.0.0.0 supertop.ru
 0.0.0.0 sur.gorodkirov.ru
+0.0.0.0 suvenir-gifts.ru
 0.0.0.0 svetvip.ru
 0.0.0.0 svk-native.ru
 0.0.0.0 swft.vedomosti.ru
@@ -1170,6 +1172,7 @@
 0.0.0.0 www.amt-k.ru
 0.0.0.0 www.audi-club.ru
 0.0.0.0 www.avramstroy.ru
+0.0.0.0 www.bankcat.ru
 0.0.0.0 www.betsonsport.ru
 0.0.0.0 www.cityads.ru
 0.0.0.0 www.clck.ru
@@ -1201,6 +1204,7 @@
 0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.shulepov.ru
 0.0.0.0 www.softout.ru
+0.0.0.0 www.suvenir-gifts.ru
 0.0.0.0 www.tinka.ru
 0.0.0.0 www.tns-counter.ru
 0.0.0.0 www.toptracker.ru
